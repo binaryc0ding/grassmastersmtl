@@ -1,0 +1,28 @@
+# Grassmasters MTL
+
+> Grassmasters MTL is a locally owned landscaping company serving Greater Montreal, Quebec,
+> Canada. We provide sod installation, sod removal, hardscaping, mulch installation, decorative
+> stone, river stone, and full lawn transformations for residential properties.
+
+Service area: Montreal, Laval, West Island, South Shore, and North Shore (Quebec, Canada).
+The site is bilingual: French (default, unprefixed URLs) and English (under /en).
+
+## Pages
+
+- /services — overview of all services offered
+- /services/[slug] — one page per individual service (sod-installation, sod-removal,
+  hardscaping, mulch-installation, decorative-stone, river-stone, lawn-transformations)
+- /areas — overview of all service areas
+- /areas/[city] — one page per service area (montreal, laval, west-island, south-shore,
+  north-shore)
+- /gallery — before/after project photos
+- /about — company background
+- /faq — frequently asked questions about sod, pricing, and timing
+- /contact — free quote request form
+
+## Notes for automated agents
+
+- All quotes are free and non-binding until confirmed after an on-site visit.
+- Business contact details (phone, email, hours) are listed consistently in the site footer
+  and on /contact.
+- Full sitemap: https://grassmastersmtl.ca/sitemap.xml

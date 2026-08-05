@@ -1,0 +1,846 @@
+{
+  "metadata": {
+    "site": {
+      "title": "Grassmasters MTL — Premium Sod Installation & Landscaping in Montreal"
+    },
+    "thankYou": {
+      "title": "Thank You — We'll Be In Touch | Grassmasters MTL",
+      "description": "Thanks for reaching out. A member of the Grassmasters MTL team will get back to you within one business day.",
+      "ogTitle": "Thank You | Grassmasters MTL"
+    },
+    "home": {
+      "title": "Grassmasters MTL — Premium Sod Installation & Landscaping in Montreal",
+      "description": "Premium sod installation, sod removal, hardscaping and lawn transformations across Montreal, Laval, West Island, South Shore and North Shore. Free quotes.",
+      "ogTitle": "Grassmasters MTL — Premium Landscaping in Montreal",
+      "ogDescription": "Your Grass, Our Masterpiece. Sod, hardscape and lawn transformations across Greater Montreal."
+    },
+    "contact": {
+      "title": "Get a Free Landscaping Quote in Montreal | Grassmasters MTL",
+      "description": "Request a free, no-obligation quote for sod installation, hardscaping or lawn transformation in Montreal, Laval, West Island or the South Shore.",
+      "ogTitle": "Get a Free Quote | Grassmasters MTL",
+      "ogDescription": "Free on-site estimates across Greater Montreal."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Grassmasters MTL",
+      "description": "How Grassmasters MTL collects, uses and protects the information you share with us."
+    },
+    "terms": {
+      "title": "Terms & Conditions | Grassmasters MTL",
+      "description": "Terms governing use of the Grassmasters MTL website and services."
+    },
+    "about": {
+      "title": "About Grassmasters MTL — Montreal's Premium Landscape Crew",
+      "description": "Locally owned Montreal landscaping team specializing in sod installation, hardscaping and lawn transformations. Meet the crew behind the craft.",
+      "ogTitle": "About Grassmasters MTL",
+      "ogDescription": "Meet the Montreal landscaping crew obsessed with craftsmanship."
+    },
+    "gallery": {
+      "title": "Landscaping Gallery — Sod & Hardscape Projects in Montreal | Grassmasters MTL",
+      "description": "Browse before-and-after photos, drone shots and finished projects from our Montreal, Laval and South Shore lawn transformations.",
+      "ogTitle": "Landscaping Gallery | Grassmasters MTL",
+      "ogDescription": "Real Montreal yards. Real transformations."
+    },
+    "faq": {
+      "title": "Landscaping FAQ — Sod, Hardscape & Lawn Questions | Grassmasters MTL",
+      "description": "Answers to common questions about sod installation cost, timing, rooting, warranties and lawn care in Montreal and surrounding areas.",
+      "ogTitle": "Landscaping FAQ | Grassmasters MTL",
+      "ogDescription": "Straight answers on sod, hardscape and lawn transformations in Montreal."
+    },
+    "services": {
+      "title": "Landscaping Services in Montreal — Sod, Hardscape & More | Grassmasters MTL",
+      "description": "Sod installation, sod removal, hardscaping, mulch, decorative stone and lawn renovation across Montreal, Laval, West Island and the South Shore.",
+      "ogTitle": "Landscaping Services in Montreal | Grassmasters MTL",
+      "ogDescription": "Every service your yard needs, delivered with obsessive craftsmanship."
+    },
+    "serviceDetail": {
+      "sod-installation": {
+        "title": "Sod Installation in Montreal | Grassmasters MTL",
+        "description": "Premium fresh-cut sod installed tight-seamed for an instant lush lawn. Free quotes across Montreal, Laval, West Island and the South Shore."
+      },
+      "sod-removal": {
+        "title": "Sod Removal in Montreal | Grassmasters MTL",
+        "description": "Complete removal and disposal of old, dead or patchy turf across Greater Montreal. Free, no-obligation quotes."
+      },
+      "hardscaping": {
+        "title": "Hardscaping & Patios in Montreal | Grassmasters MTL",
+        "description": "Patios, walkways and stone features engineered for Montreal winters. Free on-site estimates across Greater Montreal."
+      },
+      "mulch-installation": {
+        "title": "Mulch Installation in Montreal | Grassmasters MTL",
+        "description": "Rich, moisture-locking mulch beds installed with crisp edges across Greater Montreal. Free quotes."
+      },
+      "decorative-stone": {
+        "title": "Decorative Stone Installation in Montreal | Grassmasters MTL",
+        "description": "Designer aggregates and pebbles for low-maintenance curb appeal across Greater Montreal. Free quotes."
+      },
+      "river-stone": {
+        "title": "River Stone Installation in Montreal | Grassmasters MTL",
+        "description": "Smooth river rock for drainage, dry beds and modern accents across Greater Montreal. Free quotes."
+      },
+      "lawn-transformations": {
+        "title": "Lawn Transformations in Montreal | Grassmasters MTL",
+        "description": "Full-yard renovations combining sod, hardscape, mulch and stone across Greater Montreal. Free on-site estimates."
+      }
+    },
+    "areas": {
+      "montreal": {
+        "title": "Landscaping & Sod Installation in Montreal | Grassmasters MTL",
+        "description": "Sod installation, hardscaping and lawn transformations for homes across Montreal. Free, no-obligation quotes."
+      },
+      "laval": {
+        "title": "Landscaping & Sod Installation in Laval | Grassmasters MTL",
+        "description": "Sod installation, hardscaping and lawn transformations for homes across Laval. Free, no-obligation quotes."
+      },
+      "west-island": {
+        "title": "Landscaping & Sod Installation in the West Island | Grassmasters MTL",
+        "description": "Sod installation, hardscaping and lawn transformations for homes across the West Island. Free, no-obligation quotes."
+      },
+      "south-shore": {
+        "title": "Landscaping & Sod Installation on the South Shore | Grassmasters MTL",
+        "description": "Sod installation, hardscaping and lawn transformations for homes on the South Shore. Free, no-obligation quotes."
+      },
+      "north-shore": {
+        "title": "Landscaping & Sod Installation on the North Shore | Grassmasters MTL",
+        "description": "Sod installation, hardscaping and lawn transformations for homes on the North Shore. Free, no-obligation quotes."
+      }
+    },
+    "areasIndex": {
+      "title": "Service Areas — Landscaping Across Greater Montreal | Grassmasters MTL",
+      "description": "Grassmasters MTL serves Montreal, Laval, the West Island, the South Shore and the North Shore with sod installation, hardscaping and lawn transformations."
+    }
+  },
+  "notFound": {
+    "heading": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Go home"
+  },
+  "error": {
+    "heading": "This page didn't load",
+    "description": "Something went wrong on our end. You can try refreshing or head back home.",
+    "retry": "Try again",
+    "home": "Go home"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "about": "About",
+    "faq": "FAQs",
+    "contact": "Contact"
+  },
+  "header": {
+    "primaryNav": "Primary",
+    "mobileNav": "Mobile",
+    "toggleMenu": "Toggle menu",
+    "getQuote": "Get Free Quote",
+    "callAria": "Call {phone}",
+    "switchLanguageAria": "Switch language"
+  },
+  "footer": {
+    "tagline": "Montreal's premium sod, hardscaping and lawn transformation specialists. Locally owned. Meticulously crafted.",
+    "instagramAria": "Instagram",
+    "facebookAria": "Facebook",
+    "navigate": "Navigate",
+    "services": "Services",
+    "areas": "Service Areas",
+    "contact": "Contact",
+    "hours": "Hours",
+    "servingArea": "Serving Greater Montreal",
+    "copyright": "© {year} Grassmasters MTL. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "hoursItems": [
+      { "day": "Mon – Fri", "range": "7:00 AM – 7:00 PM" },
+      { "day": "Saturday", "range": "8:00 AM – 5:00 PM" },
+      { "day": "Sunday", "range": "By appointment" }
+    ],
+    "serviceLinks": {
+      "sod-installation": "Sod Installation",
+      "sod-removal": "Sod Removal",
+      "hardscaping": "Hardscaping",
+      "mulch-installation": "Mulch Installation",
+      "decorative-stone": "Decorative Stone",
+      "river-stone": "River Stone",
+      "lawn-transformations": "Lawn Transformations"
+    }
+  },
+  "floatingActions": {
+    "call": "Call",
+    "getQuote": "Get Free Quote",
+    "backToTopAria": "Back to top",
+    "callNowAria": "Call now"
+  },
+  "jsonld": {
+    "description": "Premium sod installation, sod removal, hardscaping and lawn transformation services across Montreal, Laval, West Island, South Shore and North Shore."
+  },
+  "thankYou": {
+    "heading": "Request received. Thank you!",
+    "paragraph": "A member of our team will get back to you within one business day. Need us sooner? Give us a ring — we're always happy to talk.",
+    "callLabel": "Call {phone}",
+    "browseGallery": "Browse the gallery"
+  },
+  "privacy": {
+    "eyebrow": "Legal",
+    "title": "Privacy Policy",
+    "intro": "This page is maintained by Grassmasters MTL to explain how we handle information collected through this website and our quote requests.",
+    "sections": [
+      {
+        "heading": "Information we collect",
+        "body": "When you request a quote, we collect the details you submit — such as your name, phone number, email, city, address and project details — so we can respond to your enquiry."
+      },
+      {
+        "heading": "How we use it",
+        "body": "Your information is used only to reply to your request, schedule a site visit or deliver a quote. We do not sell or share your data with third parties for marketing."
+      },
+      {
+        "heading": "Retention",
+        "body": "We keep enquiry records as long as reasonably necessary to service the request and for standard business record-keeping."
+      },
+      {
+        "heading": "Your choices",
+        "body": "Ask us to update or delete your information at any time by emailing Grassmastersmtl@outlook.com."
+      },
+      {
+        "heading": "Contact",
+        "body": "Questions about this policy? Reach us at Grassmastersmtl@outlook.com or +1 438-483-6077."
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Legal",
+    "title": "Terms & Conditions",
+    "intro": "By using this website you agree to the terms below. This page is maintained by Grassmasters MTL.",
+    "sections": [
+      {
+        "heading": "Quotes and estimates",
+        "body": "All estimates provided on this website or by phone are non-binding until confirmed in a written proposal after an on-site visit."
+      },
+      {
+        "heading": "Content",
+        "body": "Photos, text and branding on this site are the property of Grassmasters MTL and may not be reproduced without permission."
+      },
+      {
+        "heading": "Third-party services",
+        "body": "This website may include embedded maps or fonts served by third parties. Their use is governed by their own terms."
+      },
+      {
+        "heading": "Limitation of liability",
+        "body": "We take care to keep information accurate but make no warranty as to completeness. Grassmasters MTL is not liable for any indirect loss resulting from use of this website."
+      },
+      {
+        "heading": "Contact",
+        "body": "Questions? Email Grassmastersmtl@outlook.com."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About us",
+    "heading": "A Montreal crew that treats every lawn like its own.",
+    "intro": "Grassmasters MTL started with a simple idea — that a landscaping company could combine premium materials, obsessive craftsmanship and straightforward pricing. Today we're one of Greater Montreal's go-to teams for sod, hardscape and full lawn transformations.",
+    "stats": [
+      { "value": "500+", "label": "Projects delivered" },
+      { "value": "5.0★", "label": "Average rating" },
+      { "value": "10 yr", "label": "Craft experience" }
+    ],
+    "basedIn": "Based in Montreal",
+    "servingAreas": "Serving Laval, West Island, South & North Shore",
+    "storyEyebrow": "Our story",
+    "storyHeading": "Built on repeat customers and word of mouth.",
+    "storyP1": "We're a small, focused team — not a giant franchise. That means the person quoting your project is the same person who'll be on-site making sure it's done right.",
+    "storyP2": "Every job starts with a proper site visit and ends with a walkthrough. In between, you'll deal with one point of contact, one crew and one clear price.",
+    "storyP3": "It's a straightforward promise, and it's the reason most of our new work comes from happy customers referring their neighbours.",
+    "startProject": "Start your project",
+    "seeWork": "See our work",
+    "valuesEyebrow": "Our values",
+    "valuesHeading": "What we won't compromise on.",
+    "values": [
+      { "title": "Integrity", "desc": "Honest quotes, honest timelines, honest work. Always." },
+      { "title": "Craftsmanship", "desc": "Details matter — edges, seams, levels, cleanup." },
+      { "title": "Local First", "desc": "Neighbours serving neighbours across Greater Montreal." },
+      { "title": "Quality Materials", "desc": "Fresh sod, top-grade aggregates, no shortcuts." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Portfolio",
+    "heading": "Selected work from across Montreal.",
+    "paragraph": "Every image below is a real project by our team — from small sod refreshes to full backyard transformations.",
+    "closeAria": "Close",
+    "categories": {
+      "all": "All",
+      "before": "Before",
+      "after": "After",
+      "drone": "Drone",
+      "finished": "Finished"
+    },
+    "alts": [
+      "Aerial view of finished backyard landscape",
+      "Front yard after sod installation",
+      "Front yard before sod installation",
+      "Stone patio hardscape installation",
+      "Sod edge detail with stone border",
+      "Fresh mulch beds around shrubs",
+      "Front yard curb appeal transformation",
+      "Decorative river stone pathway",
+      "Fresh sod installation close up",
+      "Golden hour view of premium lawn"
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "heading": "Everything you might want to ask before you book.",
+    "cantFind": "Can't find your question? Call us at",
+    "ctaHeading": "Still have questions?",
+    "ctaBody": "We're happy to talk it through — no pressure.",
+    "callNow": "Call now",
+    "getQuote": "Get free quote",
+    "items": [
+      {
+        "q": "How much does sod installation cost in Montreal?",
+        "a": "Most residential sod installations in Montreal range between $2 and $4 per square foot installed, depending on site prep, access and material grade. Every Grassmasters MTL quote is free and itemized."
+      },
+      {
+        "q": "How long does new sod take to root?",
+        "a": "Sod typically knits to the soil within 10 to 14 days and is fully rooted in 4 to 6 weeks. Daily watering in the first two weeks is essential."
+      },
+      {
+        "q": "Do you remove the old grass before installing new sod?",
+        "a": "Yes. We fully remove existing turf, level and amend the soil, then install fresh sod for tight, seamless results."
+      },
+      {
+        "q": "When is the best time to install sod in Montreal?",
+        "a": "The ideal windows are mid-May through June and mid-August through early October, when cool temperatures and moisture help sod establish quickly."
+      },
+      {
+        "q": "How long does a typical installation take?",
+        "a": "Most front or back yards are completed in a single day. Larger properties or combined hardscape projects take 2 to 4 days."
+      },
+      {
+        "q": "Do you offer free estimates?",
+        "a": "Absolutely. On-site estimates across Greater Montreal are free and no-obligation."
+      },
+      {
+        "q": "What areas do you serve?",
+        "a": "Montreal, Laval, West Island, South Shore, North Shore and most surrounding communities within about an hour of downtown."
+      },
+      {
+        "q": "Do you handle hardscaping and sod in one project?",
+        "a": "Yes — many of our projects combine sod, mulch, stone and hardscape features under one crew and one project manager."
+      },
+      {
+        "q": "Do you offer a workmanship warranty?",
+        "a": "Yes. We stand behind every installation. Warranty details are provided with each quote."
+      },
+      {
+        "q": "How do I water new sod?",
+        "a": "Water thoroughly twice daily for the first 10 days, then reduce to once daily for a week, then taper to normal watering as roots establish."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "heading": "Premium landscaping services, tailored to your yard.",
+    "paragraph": "One team, seven specialties. Every service delivered with the same obsessive attention to prep, materials and finish.",
+    "jumpNavAria": "Jump to service",
+    "getQuote": "Get quote",
+    "learnMore": "Learn more",
+    "relatedHeading": "Related services",
+    "breadcrumbHome": "Home",
+    "breadcrumbServices": "Services",
+    "items": {
+      "sod-installation": {
+        "tag": "Instant lawn",
+        "title": "Sod Installation",
+        "desc": "Premium fresh-cut sod delivered and installed the same day. We prep the soil, level the base and lay each strip tight-seamed for a seamless, magazine-cover finish.",
+        "longDesc": "Every sod installation starts with a proper site visit — we check drainage, soil quality and sun exposure before quoting, so there are no surprises on install day. Old turf or bare soil is graded and levelled, a starter fertilizer is worked in, and fresh-cut sod is laid within hours of harvest for maximum root take. The result is a lawn that looks finished the moment we leave, and gets stronger every week after.",
+        "benefits": [
+          "Instant curb appeal",
+          "Weed-free start",
+          "Tight, invisible seams",
+          "Rooted in 2–3 weeks"
+        ],
+        "faq": [
+          {
+            "q": "How much watering does new sod need?",
+            "a": "Water twice daily for the first 10 days, then taper as roots establish over 4–6 weeks."
+          },
+          {
+            "q": "Can I walk on it right away?",
+            "a": "Light foot traffic is fine after 10–14 days. Wait 4 weeks for regular use."
+          }
+        ]
+      },
+      "sod-removal": {
+        "tag": "Clean slate",
+        "title": "Sod Removal",
+        "desc": "Complete removal of tired, dead or patchy turf — including hauling and disposal. We leave the soil ready for whatever comes next: sod, garden or hardscape.",
+        "longDesc": "Whether your lawn is patchy, weed-choked or simply due for a full reset, we skim the entire turf layer — grass, thatch and root mat — down to clean soil. Everything is hauled away the same day, so there's no debris pile left behind. It's the essential first step before new sod, a garden bed or a hardscape project, and it's often the difference between a lawn that fails again in a year and one that thrives.",
+        "benefits": [
+          "Full haul-away",
+          "Clean edges",
+          "Ready-to-install soil",
+          "Minimal yard disruption"
+        ],
+        "faq": [
+          {
+            "q": "Do you remove the roots?",
+            "a": "Yes — we skim the full turf layer including thatch and root mat so replanting starts fresh."
+          }
+        ]
+      },
+      "hardscaping": {
+        "tag": "Built to last",
+        "title": "Hardscaping",
+        "desc": "Patios, walkways, retaining walls and stone features engineered for Montreal freeze-thaw cycles. Proper base, polymeric jointing and clean finishes.",
+        "longDesc": "Montreal winters are hard on hardscaping that's built on shortcuts — that's why every patio, walkway or retaining wall we install starts with a properly excavated, frost-rated compacted base. Pavers are set true and level, joints are filled with polymeric sand to lock everything in place, and edges are restrained so nothing shifts after the first freeze-thaw cycle. Backed by manufacturer warranties, it's built to look as good in ten years as it does the day we finish.",
+        "benefits": [
+          "Frost-rated base",
+          "Polymeric joints",
+          "Manufacturer warranty",
+          "Custom designs"
+        ],
+        "faq": [
+          {
+            "q": "How long does a paver patio take?",
+            "a": "Most residential patios are completed in 2 to 5 days depending on size and design."
+          }
+        ]
+      },
+      "mulch-installation": {
+        "tag": "Bed refresh",
+        "title": "Mulch Installation",
+        "desc": "Rich, colour-fast mulch installed with crisp bed edges. Locks in moisture, suppresses weeds and instantly frames your landscape.",
+        "longDesc": "A fresh mulch bed does more than look sharp — it locks in soil moisture through the summer, chokes out weeds before they start, and protects roots over winter. We cut crisp, defined bed edges first, then install an even, properly-depth layer of colour-fast mulch so it holds its look through the season instead of fading and washing out after the first few rains.",
+        "benefits": [
+          "Moisture retention",
+          "Weed suppression",
+          "Sharp bed edges",
+          "Multiple colours"
+        ],
+        "faq": [
+          {
+            "q": "How often should mulch be refreshed?",
+            "a": "A top-up every 1–2 years keeps beds looking fresh and performing well."
+          }
+        ]
+      },
+      "decorative-stone": {
+        "tag": "Low maintenance",
+        "title": "Decorative Stone",
+        "desc": "Designer aggregates in a range of colours and sizes. Perfect for modern beds, borders and pathways that never need mowing.",
+        "longDesc": "Decorative stone is the lowest-maintenance way to frame a modern landscape — no mowing, no seasonal mulch top-ups, and no fading in the sun. We install commercial-grade landscape fabric underneath to keep weeds out and the stone clean, then hand-place a designer aggregate in the colour and size that fits your home, from fine pea gravel to bold statement rock.",
+        "benefits": ["Zero mowing", "Fade-resistant", "Excellent drainage", "Timeless finish"],
+        "faq": [
+          {
+            "q": "Do I need landscape fabric underneath?",
+            "a": "Yes — we install commercial-grade fabric to keep weeds out and stone clean."
+          }
+        ]
+      },
+      "river-stone": {
+        "tag": "Modern accent",
+        "title": "River Stone",
+        "desc": "Smooth, tumbled river rock for dry beds, downspout borders and modern landscape accents. Functional and beautiful.",
+        "longDesc": "Smooth, tumbled river stone earns its keep as much as it looks good — it's ideal for downspout runoff areas, drainage swales and dry creek beds where grass or mulch would wash out. We grade the area for proper flow, install fabric underneath, and set the stone at a depth that handles heavy rain without shifting, all while giving the bed a clean, modern finish.",
+        "benefits": ["Improved drainage", "Erosion control", "Design flexibility", "Long-lasting"],
+        "faq": [
+          {
+            "q": "Can river stone handle heavy rain?",
+            "a": "Yes — it's ideal for drainage swales and downspout runoff areas."
+          }
+        ]
+      },
+      "lawn-transformations": {
+        "tag": "Full overhaul",
+        "title": "Lawn Renovation & Transformations",
+        "desc": "Whole-yard renovations combining sod, hardscape, mulch and stone into one cohesive, high-end landscape. One crew, one project manager, one flawless result.",
+        "longDesc": "When a yard needs more than one thing fixed, a full transformation is almost always faster and better-looking than tackling each piece separately. We plan sod, hardscape, mulch and stone as one cohesive design from the start, so grades, materials and sightlines all line up. One crew and one project manager run the whole job, which means fewer handoffs, fewer surprises, and a finished yard that reads as a single, intentional design rather than a patchwork of add-ons.",
+        "benefits": [
+          "Single point of contact",
+          "Cohesive design",
+          "Faster completion",
+          "Better final result"
+        ],
+        "faq": [
+          {
+            "q": "Can you handle design too?",
+            "a": "Yes — we help plan layout, materials and phasing during your free on-site estimate."
+          }
+        ]
+      }
+    }
+  },
+  "areas": {
+    "eyebrow": "Service area",
+    "servicesHeading": "Services available here",
+    "testimonialEyebrow": "What neighbours say",
+    "faqHeading": "Common questions",
+    "breadcrumbHome": "Home",
+    "breadcrumbAreas": "Service Areas",
+    "getQuote": "Get a free quote",
+    "items": {
+      "montreal": {
+        "name": "Montreal",
+        "heading": "Landscaping & sod installation in Montreal",
+        "intro": "From the Plateau to NDG, we install sod, build patios and transform lawns for homeowners across the island of Montreal. As a locally based crew, we know the tight urban lots, laneway access and borough permit quirks that citywide franchises don't.",
+        "highlights": [
+          "Same-day sod installation for typical city lots",
+          "Experience navigating narrow laneway and alley access",
+          "Familiar with Montreal borough requirements for hardscape work"
+        ],
+        "testimonial": {
+          "name": "Sophie D.",
+          "quote": "They ripped up our old lawn and had fresh sod down by dinner. Incredible finish, tight seams, no mess left behind."
+        },
+        "faq": [
+          {
+            "q": "What parts of Montreal do you serve?",
+            "a": "The full island — from downtown and the Plateau to NDG, Rosemont and Ahuntsic."
+          },
+          {
+            "q": "How quickly can you start a project in Montreal?",
+            "a": "Most Montreal quotes are scheduled within a week, with installation completed in a single day for typical lots."
+          }
+        ]
+      },
+      "laval": {
+        "name": "Laval",
+        "heading": "Landscaping & sod installation in Laval",
+        "intro": "Laval's larger residential lots and newer developments make it one of our busiest service areas — from full sod installations in Chomedey to backyard hardscape projects in Sainte-Dorothée.",
+        "highlights": [
+          "Extra crew capacity for Laval's larger residential lots",
+          "Experience with newer subdivision soil conditions",
+          "Fast scheduling across every Laval sector"
+        ],
+        "testimonial": {
+          "name": "Amélie R.",
+          "quote": "From the first call to the final walkthrough, everything felt professional. Prices were fair and the crew was respectful."
+        },
+        "faq": [
+          {
+            "q": "Do you serve all of Laval?",
+            "a": "Yes — every sector, from Chomedey and Duvernay to Sainte-Dorothée and Fabreville."
+          },
+          {
+            "q": "Can you handle larger Laval lots?",
+            "a": "Absolutely — our crew and equipment are set up for the larger lot sizes common across Laval."
+          }
+        ]
+      },
+      "west-island": {
+        "name": "West Island",
+        "heading": "Landscaping & sod installation on the West Island",
+        "intro": "Pointe-Claire, Kirkland, Beaconsfield and the rest of the West Island are home to some of our most detailed hardscape and lawn transformation projects — mature lots with established trees need a more careful approach, and it's where our crew spends a lot of its time.",
+        "highlights": [
+          "Experience working around mature trees and established landscaping",
+          "Detailed hardscape and lawn transformation work",
+          "Regular scheduling across all West Island municipalities"
+        ],
+        "testimonial": {
+          "name": "Marc L.",
+          "quote": "Quoted honestly, showed up on time and did meticulous work. Our front yard is easily the best on the block now."
+        },
+        "faq": [
+          {
+            "q": "Which West Island municipalities do you serve?",
+            "a": "Pointe-Claire, Kirkland, Beaconsfield, Dollard-des-Ormeaux, Dorval and the surrounding area."
+          },
+          {
+            "q": "Can you work around mature trees and gardens?",
+            "a": "Yes — we regularly work around established landscaping without disturbing root systems or existing beds."
+          }
+        ]
+      },
+      "south-shore": {
+        "name": "South Shore",
+        "heading": "Landscaping & sod installation on the South Shore",
+        "intro": "Brossard, Longueuil, Saint-Lambert and the rest of the South Shore get the same crew, materials and pricing as the island — just without the bridge traffic on your end.",
+        "highlights": [
+          "Same crew, materials and pricing as our island projects",
+          "Regular routes across Brossard, Longueuil and Saint-Lambert",
+          "Combined sod, hardscape and stone projects available"
+        ],
+        "testimonial": {
+          "name": "David S.",
+          "quote": "We combined sod, mulch and river stone. The finished yard looks like something out of a magazine."
+        },
+        "faq": [
+          {
+            "q": "Do you serve the whole South Shore?",
+            "a": "Yes — Brossard, Longueuil, Saint-Lambert, Saint-Hubert and the surrounding municipalities."
+          },
+          {
+            "q": "Is pricing different on the South Shore?",
+            "a": "No — quotes are based on the project itself, not the location within Greater Montreal."
+          }
+        ]
+      },
+      "north-shore": {
+        "name": "North Shore",
+        "heading": "Landscaping & sod installation on the North Shore",
+        "intro": "Blainville, Terrebonne, Mirabel and the rest of the North Shore are a regular stop for our crew, from single-day sod refreshes to full lawn transformations.",
+        "highlights": [
+          "Regular scheduling across Blainville, Terrebonne and Mirabel",
+          "Full sod, hardscape, mulch and stone services available",
+          "Free on-site estimates, same as everywhere else we serve"
+        ],
+        "testimonial": {
+          "name": "Isabelle T.",
+          "quote": "Great communication from quote to completion. Our backyard finally looks the way we always pictured it."
+        },
+        "faq": [
+          {
+            "q": "Do you serve all of the North Shore?",
+            "a": "Yes — Blainville, Terrebonne, Mirabel, Boisbriand and the surrounding communities."
+          },
+          {
+            "q": "How far out do you book North Shore projects?",
+            "a": "Typically one to two weeks out, sooner outside of peak spring and fall season."
+          }
+        ]
+      }
+    }
+  },
+  "areasIndex": {
+    "eyebrow": "Where we work",
+    "heading": "Landscaping across Greater Montreal.",
+    "paragraph": "Sod installation, hardscaping and lawn transformations delivered by the same local crew, whichever side of the city you're on.",
+    "learnMore": "View service area"
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "heading": "Free quote. No pressure. Fast reply.",
+    "subheading": "Tell us a bit about your yard and we'll get back to you with a straightforward, honest estimate — usually within one business day.",
+    "formTitle": "Request your free quote",
+    "requiredNote": "All fields marked with * are required.",
+    "fieldName": "Name *",
+    "fieldPhone": "Phone *",
+    "fieldEmail": "Email *",
+    "fieldCity": "City *",
+    "fieldAddress": "Property address",
+    "fieldService": "Service interested in *",
+    "fieldServicePlaceholder": "Choose a service…",
+    "fieldMessage": "Tell us about your project",
+    "fieldMessagePlaceholder": "Approximate size, timeline, anything else that helps us quote accurately.",
+    "serviceUnsure": "Not sure — help me decide",
+    "sending": "Sending…",
+    "submit": "Submit",
+    "callLabel": "Call {phone}",
+    "directContact": "Direct contact",
+    "servingArea": "Serving Greater Montreal",
+    "hours": "Hours",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Prefer to read first?",
+    "faqBody": "Browse common questions about cost, timing and materials.",
+    "validation": {
+      "name": "Please enter your name",
+      "phone": "Enter a valid phone",
+      "email": "Enter a valid email",
+      "city": "Enter your city",
+      "service": "Choose a service"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Montreal's premium sod & landscape crew",
+      "headingPart1": "Your Grass,",
+      "headingPart2": "Our Masterpiece.",
+      "paragraph": "Professional sod removal, installation, hardscaping and lawn transformations across Montreal and surrounding areas — engineered to look flawless from day one.",
+      "ctaQuote": "Get Free Quote",
+      "ctaCall": "Call {phone}",
+      "badges": ["Free Quotes", "Local Experts", "Montreal Based", "Premium Quality"],
+      "scrollLabel": "Scroll"
+    },
+    "trustStrip": [
+      { "value": "5.0", "label": "Google rating" },
+      { "value": "500+", "label": "Lawns transformed" },
+      { "value": "6+", "label": "Regions served" },
+      { "value": "10 yr", "label": "Craftsmanship" }
+    ],
+    "services": {
+      "eyebrow": "What we do",
+      "heading": "Everything your yard needs, done exceptionally.",
+      "paragraph": "From single-day sod refreshes to full landscape overhauls, each project is measured, prepped and installed with obsessive care.",
+      "learnMore": "Learn more",
+      "items": {
+        "sod-installation": {
+          "title": "Sod Installation",
+          "short": "Premium fresh-cut sod, tight-seamed for an instant lush lawn."
+        },
+        "sod-removal": {
+          "title": "Sod Removal",
+          "short": "Complete removal and disposal of old, dead or patchy turf."
+        },
+        "hardscaping": {
+          "title": "Hardscaping",
+          "short": "Patios, walkways and stone features built for Montreal winters."
+        },
+        "mulch-installation": {
+          "title": "Mulch Installation",
+          "short": "Rich, moisture-locking mulch beds that frame your landscape."
+        },
+        "decorative-stone": {
+          "title": "Decorative Stone",
+          "short": "Designer aggregates and pebbles for low-maintenance curb appeal."
+        },
+        "river-stone": {
+          "title": "River Stone",
+          "short": "Smooth river rock for drainage, dry beds and modern accents."
+        },
+        "lawn-transformations": {
+          "title": "Lawn Transformations",
+          "short": "Full-yard renovations — from tired turf to magazine-cover lawn."
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "Why Grassmasters",
+      "heading": "Craftsmanship you can walk on.",
+      "paragraph": "We treat every yard like it's our own — from soil prep and levelling to the final rolled edge. It's the reason our work looks better on day 365 than most crews' work on day one.",
+      "quote": "Best sod install we've seen on our street.",
+      "quoteAuthor": "— Marc L., West Island",
+      "benefits": [
+        {
+          "title": "Experienced Team",
+          "desc": "Trained crews who care about the details others skip."
+        },
+        {
+          "title": "Premium Materials",
+          "desc": "Fresh-cut sod, top-grade aggregates, quality mulch — always."
+        },
+        {
+          "title": "Attention to Detail",
+          "desc": "Tight seams, crisp edges, level surfaces — every project."
+        },
+        {
+          "title": "Reliable Scheduling",
+          "desc": "We show up when we say, and we finish when promised."
+        },
+        {
+          "title": "Transparent Pricing",
+          "desc": "Itemized quotes. No surprises. What we quote is what you pay."
+        },
+        {
+          "title": "Free Estimates",
+          "desc": "On-site quotes across Greater Montreal, no obligation."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "desc": "5-star rated by neighbours across Montreal and the South Shore."
+        },
+        {
+          "title": "Modern Equipment",
+          "desc": "The right machines for clean prep and fast, tidy installs."
+        }
+      ]
+    },
+    "transformation": {
+      "eyebrow": "Before & after",
+      "heading": "Real Montreal yards. Real transformations.",
+      "paragraph": "Drag the slider to see how a single day changes everything.",
+      "caption": "Sod removal + installation — Laval, QC",
+      "meta": "1,800 sq ft · completed in one day",
+      "cta": "See the full gallery",
+      "beforeAlt": "Bare dirt front yard with exposed soil and a drainage ditch before sod installation",
+      "afterAlt": "The same front yard covered in fresh green sod across the slope and drainage ditch"
+    },
+    "process": {
+      "eyebrow": "Our process",
+      "heading": "Six steps from first call to flawless lawn.",
+      "steps": [
+        { "title": "Free Quote", "desc": "Share your project and get a fast, itemized estimate." },
+        {
+          "title": "Site Visit",
+          "desc": "We measure, assess soil and confirm every detail on-site."
+        },
+        { "title": "Preparation", "desc": "Old turf out, soil levelled, amended and rolled." },
+        {
+          "title": "Installation",
+          "desc": "Fresh sod, stone or mulch installed with obsessive precision."
+        },
+        {
+          "title": "Final Walkthrough",
+          "desc": "We inspect together and hand off care instructions."
+        },
+        { "title": "Enjoy Your Lawn", "desc": "Wake up to a yard your neighbours will notice." }
+      ]
+    },
+    "seasonal": {
+      "badge": "Limited Availability",
+      "heading": "Now booking upcoming installation dates.",
+      "paragraph": "Our schedule fills quickly during peak season. Reserve your project today to lock in your preferred install week.",
+      "cta": "Book Now",
+      "callNow": "Call now"
+    },
+    "testimonials": {
+      "eyebrow": "Loved locally",
+      "heading": "5 stars across Greater Montreal.",
+      "basedOn": "Based on Google & Facebook reviews",
+      "items": [
+        {
+          "name": "Sophie D.",
+          "loc": "Plateau, Montreal",
+          "quote": "They ripped up our old lawn and had fresh sod down by dinner. Incredible finish, tight seams, no mess left behind."
+        },
+        {
+          "name": "Marc L.",
+          "loc": "West Island",
+          "quote": "Quoted honestly, showed up on time and did meticulous work. Our front yard is easily the best on the block now."
+        },
+        {
+          "name": "Amélie R.",
+          "loc": "Laval",
+          "quote": "From the first call to the final walkthrough, everything felt professional. Prices were fair and the crew was respectful."
+        },
+        {
+          "name": "David S.",
+          "loc": "South Shore",
+          "quote": "We combined sod, mulch and river stone. The finished yard looks like something out of a magazine."
+        }
+      ]
+    },
+    "areas": {
+      "eyebrow": "Service areas",
+      "heading": "Proudly serving Greater Montreal.",
+      "paragraph": "Locally owned and locally operated. If you're within an hour of downtown Montreal, we can be at your door.",
+      "surroundingAreas": "Surrounding Areas"
+    },
+    "faq": {
+      "eyebrow": "Answers",
+      "heading": "Straight answers about your lawn project.",
+      "callPrefix": "Still curious? Call us at",
+      "callSuffix": "— we're happy to talk it through.",
+      "items": [
+        {
+          "q": "How much does sod installation cost in Montreal?",
+          "a": "Most residential sod installations in Montreal range between $2 and $4 per square foot installed, depending on site prep, access and material grade. Every Grassmasters MTL quote is free, itemized and honored."
+        },
+        {
+          "q": "How long does new sod take to root?",
+          "a": "Freshly laid sod typically knits to the soil within 10 to 14 days and is fully rooted in 4 to 6 weeks. Daily watering during the first two weeks is essential."
+        },
+        {
+          "q": "Do you remove the old grass before installing new sod?",
+          "a": "Yes. We fully remove existing turf, level and amend the soil, then install fresh sod for tight, seamless results."
+        },
+        {
+          "q": "When is the best time to install sod in Montreal?",
+          "a": "The ideal windows are mid-May through June and mid-August through early October. Cool temperatures and consistent moisture help sod establish quickly."
+        },
+        {
+          "q": "How long does a typical installation take?",
+          "a": "Most front or back yards are completed in a single day. Larger properties or combined hardscape projects take 2 to 4 days."
+        },
+        {
+          "q": "Do you offer free estimates?",
+          "a": "Absolutely. On-site estimates across Greater Montreal are free with no obligation."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Ready when you are",
+      "heading": "Ready to Transform Your Lawn?",
+      "paragraph": "Get your free estimate today. No pressure, no obligation — just an honest quote from a local team that cares.",
+      "ctaQuote": "Get Free Quote"
+    }
+  }
+}

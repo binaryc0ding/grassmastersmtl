@@ -1,0 +1,879 @@
+{
+  "metadata": {
+    "site": {
+      "title": "Grassmasters MTL — Installation de gazon et aménagement paysager haut de gamme à Montréal"
+    },
+    "thankYou": {
+      "title": "Merci — Nous vous contacterons bientôt | Grassmasters MTL",
+      "description": "Merci de nous avoir contactés. Un membre de l'équipe Grassmasters MTL vous répondra dans un délai d'un jour ouvrable.",
+      "ogTitle": "Merci | Grassmasters MTL"
+    },
+    "home": {
+      "title": "Grassmasters MTL — Installation de gazon et aménagement paysager haut de gamme à Montréal",
+      "description": "Installation de gazon, enlèvement de gazon, aménagement paysager et transformation de pelouses partout à Montréal, Laval, Rive-Ouest, Rive-Sud et Rive-Nord. Soumissions gratuites.",
+      "ogTitle": "Grassmasters MTL — Aménagement paysager haut de gamme à Montréal",
+      "ogDescription": "Votre gazon, notre chef-d'œuvre. Gazon, aménagement et transformation de pelouses partout dans le Grand Montréal."
+    },
+    "contact": {
+      "title": "Obtenez une soumission gratuite pour l'aménagement paysager à Montréal | Grassmasters MTL",
+      "description": "Demandez une soumission gratuite et sans obligation pour l'installation de gazon, l'aménagement paysager ou la transformation de pelouse à Montréal, Laval, Rive-Ouest ou Rive-Sud.",
+      "ogTitle": "Obtenez une soumission gratuite | Grassmasters MTL",
+      "ogDescription": "Estimations gratuites sur place partout dans le Grand Montréal."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité | Grassmasters MTL",
+      "description": "Comment Grassmasters MTL recueille, utilise et protège les renseignements que vous nous partagez."
+    },
+    "terms": {
+      "title": "Modalités et conditions | Grassmasters MTL",
+      "description": "Modalités régissant l'utilisation du site web et des services de Grassmasters MTL."
+    },
+    "about": {
+      "title": "À propos de Grassmasters MTL — L'équipe d'aménagement paysager premium de Montréal",
+      "description": "Équipe montréalaise d'aménagement paysager, propriété locale, spécialisée en installation de gazon, aménagement paysager et transformation de pelouses. Rencontrez l'équipe derrière le savoir-faire.",
+      "ogTitle": "À propos de Grassmasters MTL",
+      "ogDescription": "Rencontrez l'équipe montréalaise d'aménagement paysager obsédée par le savoir-faire."
+    },
+    "gallery": {
+      "title": "Galerie d'aménagement paysager — Projets de gazon et pavé-uni à Montréal | Grassmasters MTL",
+      "description": "Parcourez des photos avant-après, des vues aériennes et des projets terminés de nos transformations de pelouses à Montréal, Laval et sur la Rive-Sud.",
+      "ogTitle": "Galerie d'aménagement paysager | Grassmasters MTL",
+      "ogDescription": "De vrais terrains montréalais. De vraies transformations."
+    },
+    "faq": {
+      "title": "FAQ aménagement paysager — Questions sur le gazon, le pavé-uni et la pelouse | Grassmasters MTL",
+      "description": "Réponses aux questions courantes sur le coût, les délais, l'enracinement, les garanties et l'entretien du gazon à Montréal et dans les environs.",
+      "ogTitle": "FAQ aménagement paysager | Grassmasters MTL",
+      "ogDescription": "Des réponses claires sur le gazon, le pavé-uni et la transformation de pelouses à Montréal."
+    },
+    "services": {
+      "title": "Services d'aménagement paysager à Montréal — Gazon, pavé-uni et plus | Grassmasters MTL",
+      "description": "Installation de gazon, enlèvement de gazon, aménagement paysager, paillis, pierre décorative et rénovation de pelouse à Montréal, Laval, Rive-Ouest et Rive-Sud.",
+      "ogTitle": "Services d'aménagement paysager à Montréal | Grassmasters MTL",
+      "ogDescription": "Tous les services dont votre terrain a besoin, livrés avec un savoir-faire méticuleux."
+    },
+    "serviceDetail": {
+      "sod-installation": {
+        "title": "Installation de gazon à Montréal | Grassmasters MTL",
+        "description": "Gazon frais coupé haut de gamme installé à joints serrés pour une pelouse luxuriante instantanée. Soumissions gratuites partout à Montréal, Laval, Rive-Ouest et Rive-Sud."
+      },
+      "sod-removal": {
+        "title": "Enlèvement de gazon à Montréal | Grassmasters MTL",
+        "description": "Enlèvement et disposition complets d'un vieux gazon mort ou abîmé partout dans le Grand Montréal. Soumissions gratuites et sans obligation."
+      },
+      "hardscaping": {
+        "title": "Aménagement paysager et patios à Montréal | Grassmasters MTL",
+        "description": "Patios, allées et aménagements en pierre conçus pour les hivers montréalais. Estimations gratuites sur place partout dans le Grand Montréal."
+      },
+      "mulch-installation": {
+        "title": "Installation de paillis à Montréal | Grassmasters MTL",
+        "description": "Lits de paillis riches qui retiennent l'humidité, installés avec des bordures nettes partout dans le Grand Montréal. Soumissions gratuites."
+      },
+      "decorative-stone": {
+        "title": "Installation de pierre décorative à Montréal | Grassmasters MTL",
+        "description": "Agrégats et galets design pour un attrait extérieur à faible entretien partout dans le Grand Montréal. Soumissions gratuites."
+      },
+      "river-stone": {
+        "title": "Installation de pierre de rivière à Montréal | Grassmasters MTL",
+        "description": "Roche de rivière lisse pour le drainage, les lits secs et les touches modernes partout dans le Grand Montréal. Soumissions gratuites."
+      },
+      "lawn-transformations": {
+        "title": "Transformation de pelouse à Montréal | Grassmasters MTL",
+        "description": "Rénovations complètes combinant gazon, aménagement, paillis et pierre partout dans le Grand Montréal. Estimations gratuites sur place."
+      }
+    },
+    "areas": {
+      "montreal": {
+        "title": "Aménagement paysager et installation de gazon à Montréal | Grassmasters MTL",
+        "description": "Installation de gazon, aménagement paysager et transformation de pelouses pour les résidences de Montréal. Soumissions gratuites et sans obligation."
+      },
+      "laval": {
+        "title": "Aménagement paysager et installation de gazon à Laval | Grassmasters MTL",
+        "description": "Installation de gazon, aménagement paysager et transformation de pelouses pour les résidences de Laval. Soumissions gratuites et sans obligation."
+      },
+      "west-island": {
+        "title": "Aménagement paysager et installation de gazon sur la Rive-Ouest | Grassmasters MTL",
+        "description": "Installation de gazon, aménagement paysager et transformation de pelouses pour les résidences de la Rive-Ouest. Soumissions gratuites et sans obligation."
+      },
+      "south-shore": {
+        "title": "Aménagement paysager et installation de gazon sur la Rive-Sud | Grassmasters MTL",
+        "description": "Installation de gazon, aménagement paysager et transformation de pelouses pour les résidences de la Rive-Sud. Soumissions gratuites et sans obligation."
+      },
+      "north-shore": {
+        "title": "Aménagement paysager et installation de gazon sur la Rive-Nord | Grassmasters MTL",
+        "description": "Installation de gazon, aménagement paysager et transformation de pelouses pour les résidences de la Rive-Nord. Soumissions gratuites et sans obligation."
+      }
+    },
+    "areasIndex": {
+      "title": "Secteurs desservis — Aménagement paysager dans le Grand Montréal | Grassmasters MTL",
+      "description": "Grassmasters MTL dessert Montréal, Laval, la Rive-Ouest, la Rive-Sud et la Rive-Nord avec l'installation de gazon, l'aménagement paysager et la transformation de pelouses."
+    }
+  },
+  "notFound": {
+    "heading": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  },
+  "error": {
+    "heading": "Cette page n'a pas pu se charger",
+    "description": "Une erreur est survenue de notre côté. Vous pouvez réessayer ou retourner à l'accueil.",
+    "retry": "Réessayer",
+    "home": "Retour à l'accueil"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "header": {
+    "primaryNav": "Navigation principale",
+    "mobileNav": "Navigation mobile",
+    "toggleMenu": "Afficher/masquer le menu",
+    "getQuote": "Soumission gratuite",
+    "callAria": "Appeler le {phone}",
+    "switchLanguageAria": "Changer de langue"
+  },
+  "footer": {
+    "tagline": "Les spécialistes montréalais du gazon, de l'aménagement paysager et de la transformation de pelouses haut de gamme. Entreprise locale. Un travail méticuleux.",
+    "instagramAria": "Instagram",
+    "facebookAria": "Facebook",
+    "navigate": "Navigation",
+    "services": "Services",
+    "areas": "Secteurs desservis",
+    "contact": "Contact",
+    "hours": "Heures d'ouverture",
+    "servingArea": "Au service du Grand Montréal",
+    "copyright": "© {year} Grassmasters MTL. Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Modalités",
+    "hoursItems": [
+      { "day": "Lun. – Ven.", "range": "7 h à 19 h" },
+      { "day": "Samedi", "range": "8 h à 17 h" },
+      { "day": "Dimanche", "range": "Sur rendez-vous" }
+    ],
+    "serviceLinks": {
+      "sod-installation": "Installation de gazon",
+      "sod-removal": "Enlèvement de gazon",
+      "hardscaping": "Aménagement paysager (pavé-uni)",
+      "mulch-installation": "Installation de paillis",
+      "decorative-stone": "Pierre décorative",
+      "river-stone": "Pierre de rivière",
+      "lawn-transformations": "Transformation de pelouse"
+    }
+  },
+  "floatingActions": {
+    "call": "Appeler",
+    "getQuote": "Soumission gratuite",
+    "backToTopAria": "Retour en haut",
+    "callNowAria": "Appeler maintenant"
+  },
+  "jsonld": {
+    "description": "Installation de gazon, enlèvement de gazon, aménagement paysager et transformation de pelouses haut de gamme à Montréal, Laval, sur la Rive-Ouest, la Rive-Sud et la Rive-Nord."
+  },
+  "thankYou": {
+    "heading": "Demande reçue. Merci!",
+    "paragraph": "Un membre de notre équipe vous répondra dans un délai d'un jour ouvrable. Besoin de nous joindre plus vite? Appelez-nous — nous sommes toujours heureux d'en discuter.",
+    "callLabel": "Appeler le {phone}",
+    "browseGallery": "Parcourir la galerie"
+  },
+  "privacy": {
+    "eyebrow": "Légal",
+    "title": "Politique de confidentialité",
+    "intro": "Cette page est maintenue par Grassmasters MTL pour expliquer comment nous traitons les renseignements recueillis sur ce site web et lors de vos demandes de soumission.",
+    "sections": [
+      {
+        "heading": "Renseignements que nous recueillons",
+        "body": "Lorsque vous demandez une soumission, nous recueillons les détails que vous nous soumettez — comme votre nom, numéro de téléphone, courriel, ville, adresse et détails du projet — afin de répondre à votre demande."
+      },
+      {
+        "heading": "Comment nous les utilisons",
+        "body": "Vos renseignements sont utilisés uniquement pour répondre à votre demande, planifier une visite sur place ou fournir une soumission. Nous ne vendons ni ne partageons vos données à des tiers à des fins de marketing."
+      },
+      {
+        "heading": "Conservation",
+        "body": "Nous conservons les dossiers de demandes aussi longtemps que raisonnablement nécessaire pour traiter la demande et aux fins habituelles de tenue de dossiers d'entreprise."
+      },
+      {
+        "heading": "Vos choix",
+        "body": "Demandez-nous de mettre à jour ou de supprimer vos renseignements en tout temps par courriel à Grassmastersmtl@outlook.com."
+      },
+      {
+        "heading": "Contact",
+        "body": "Des questions sur cette politique? Joignez-nous à Grassmastersmtl@outlook.com ou au +1 438-483-6077."
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Légal",
+    "title": "Modalités et conditions",
+    "intro": "En utilisant ce site web, vous acceptez les modalités ci-dessous. Cette page est maintenue par Grassmasters MTL.",
+    "sections": [
+      {
+        "heading": "Soumissions et estimations",
+        "body": "Toutes les estimations fournies sur ce site web ou par téléphone sont non contraignantes jusqu'à confirmation dans une proposition écrite après une visite sur place."
+      },
+      {
+        "heading": "Contenu",
+        "body": "Les photos, textes et éléments de marque sur ce site sont la propriété de Grassmasters MTL et ne peuvent être reproduits sans permission."
+      },
+      {
+        "heading": "Services tiers",
+        "body": "Ce site web peut inclure des cartes ou des polices intégrées fournies par des tiers. Leur utilisation est régie par leurs propres modalités."
+      },
+      {
+        "heading": "Limitation de responsabilité",
+        "body": "Nous prenons soin de maintenir des renseignements exacts, mais n'offrons aucune garantie quant à leur exhaustivité. Grassmasters MTL n'est pas responsable de toute perte indirecte résultant de l'utilisation de ce site web."
+      },
+      {
+        "heading": "Contact",
+        "body": "Des questions? Écrivez à Grassmastersmtl@outlook.com."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "heading": "Une équipe montréalaise qui traite chaque pelouse comme la sienne.",
+    "intro": "Grassmasters MTL est né d'une idée simple — qu'une entreprise d'aménagement paysager puisse combiner des matériaux haut de gamme, un savoir-faire méticuleux et une tarification transparente. Aujourd'hui, nous sommes l'une des équipes de référence du Grand Montréal pour le gazon, l'aménagement et la transformation complète de pelouses.",
+    "stats": [
+      { "value": "500+", "label": "Projets réalisés" },
+      { "value": "5.0★", "label": "Note moyenne" },
+      { "value": "10 ans", "label": "Expérience du métier" }
+    ],
+    "basedIn": "Basés à Montréal",
+    "servingAreas": "Au service de Laval, Rive-Ouest, Rive-Sud et Rive-Nord",
+    "storyEyebrow": "Notre histoire",
+    "storyHeading": "Bâtie sur la fidélité de nos clients et le bouche-à-oreille.",
+    "storyP1": "Nous sommes une équipe petite et concentrée — pas une franchise géante. Cela signifie que la personne qui soumissionne votre projet est la même qui sera sur place pour s'assurer que tout est bien fait.",
+    "storyP2": "Chaque projet commence par une véritable visite sur place et se termine par une inspection conjointe. Entre les deux, vous n'avez qu'un seul point de contact, une seule équipe et un prix clair.",
+    "storyP3": "C'est une promesse simple, et c'est la raison pour laquelle la majorité de nos nouveaux projets proviennent de clients satisfaits qui recommandent leurs voisins.",
+    "startProject": "Démarrer votre projet",
+    "seeWork": "Voir nos réalisations",
+    "valuesEyebrow": "Nos valeurs",
+    "valuesHeading": "Ce sur quoi nous ne faisons jamais de compromis.",
+    "values": [
+      {
+        "title": "Intégrité",
+        "desc": "Soumissions honnêtes, échéanciers honnêtes, travail honnête. Toujours."
+      },
+      {
+        "title": "Savoir-faire",
+        "desc": "Les détails comptent — bordures, joints, niveaux, nettoyage."
+      },
+      {
+        "title": "Priorité au local",
+        "desc": "Des voisins au service de leurs voisins partout dans le Grand Montréal."
+      },
+      {
+        "title": "Matériaux de qualité",
+        "desc": "Gazon frais, agrégats haut de gamme, aucun raccourci."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Portfolio",
+    "heading": "Une sélection de réalisations partout à Montréal.",
+    "paragraph": "Chaque image ci-dessous est un vrai projet réalisé par notre équipe — des rafraîchissements de gazon aux transformations complètes de cour arrière.",
+    "closeAria": "Fermer",
+    "categories": {
+      "all": "Tous",
+      "before": "Avant",
+      "after": "Après",
+      "drone": "Vue aérienne",
+      "finished": "Terminé"
+    },
+    "alts": [
+      "Vue aérienne d'un aménagement paysager de cour arrière terminé",
+      "Cour avant après l'installation de gazon",
+      "Cour avant avant l'installation de gazon",
+      "Installation d'un aménagement en pierre pour patio",
+      "Détail de bordure de gazon avec bordure de pierre",
+      "Lits de paillis frais autour d'arbustes",
+      "Transformation de l'attrait extérieur d'une cour avant",
+      "Sentier décoratif en pierre de rivière",
+      "Gros plan d'une installation de gazon frais",
+      "Vue aérienne d'une pelouse haut de gamme à l'heure dorée"
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "heading": "Tout ce que vous pourriez vouloir demander avant de réserver.",
+    "cantFind": "Vous ne trouvez pas votre question? Appelez-nous au",
+    "ctaHeading": "Encore des questions?",
+    "ctaBody": "Nous sommes heureux d'en discuter — sans pression.",
+    "callNow": "Appeler maintenant",
+    "getQuote": "Obtenir une soumission gratuite",
+    "items": [
+      {
+        "q": "Combien coûte l'installation de gazon à Montréal?",
+        "a": "La plupart des installations résidentielles de gazon à Montréal se situent entre 2 $ et 4 $ le pied carré installé, selon la préparation du site, l'accès et la qualité du matériel. Chaque soumission de Grassmasters MTL est gratuite et détaillée."
+      },
+      {
+        "q": "Combien de temps faut-il pour que le nouveau gazon s'enracine?",
+        "a": "Le gazon s'ancre généralement au sol en 10 à 14 jours et s'enracine complètement en 4 à 6 semaines. L'arrosage quotidien pendant les deux premières semaines est essentiel."
+      },
+      {
+        "q": "Retirez-vous l'ancien gazon avant d'installer le nouveau?",
+        "a": "Oui. Nous retirons complètement le gazon existant, nivelons et amendons le sol, puis installons du gazon frais pour un résultat serré et sans coutures visibles."
+      },
+      {
+        "q": "Quel est le meilleur moment pour installer du gazon à Montréal?",
+        "a": "Les périodes idéales sont de la mi-mai à juin et de la mi-août au début octobre, lorsque les températures fraîches et l'humidité aident le gazon à s'établir rapidement."
+      },
+      {
+        "q": "Combien de temps dure une installation typique?",
+        "a": "La plupart des cours avant ou arrière sont complétées en une seule journée. Les propriétés plus grandes ou les projets combinés d'aménagement prennent 2 à 4 jours."
+      },
+      {
+        "q": "Offrez-vous des estimations gratuites?",
+        "a": "Absolument. Les estimations sur place partout dans le Grand Montréal sont gratuites et sans obligation."
+      },
+      {
+        "q": "Quelles régions desservez-vous?",
+        "a": "Montréal, Laval, Rive-Ouest, Rive-Sud, Rive-Nord et la plupart des communautés environnantes à environ une heure du centre-ville."
+      },
+      {
+        "q": "Faites-vous l'aménagement paysager et le gazon dans un même projet?",
+        "a": "Oui — plusieurs de nos projets combinent gazon, paillis, pierre et aménagements sous une seule équipe et un seul chargé de projet."
+      },
+      {
+        "q": "Offrez-vous une garantie sur la main-d'œuvre?",
+        "a": "Oui. Nous garantissons chaque installation. Les détails de la garantie sont fournis avec chaque soumission."
+      },
+      {
+        "q": "Comment dois-je arroser le nouveau gazon?",
+        "a": "Arrosez abondamment deux fois par jour pendant les 10 premiers jours, puis réduisez à une fois par jour pendant une semaine, puis revenez à un arrosage normal à mesure que les racines s'établissent."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "heading": "Services d'aménagement paysager haut de gamme, adaptés à votre terrain.",
+    "paragraph": "Une équipe, sept spécialités. Chaque service livré avec la même attention méticuleuse à la préparation, aux matériaux et à la finition.",
+    "jumpNavAria": "Aller au service",
+    "getQuote": "Obtenir une soumission",
+    "learnMore": "En savoir plus",
+    "relatedHeading": "Services connexes",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbServices": "Services",
+    "items": {
+      "sod-installation": {
+        "tag": "Pelouse instantanée",
+        "title": "Installation de gazon",
+        "desc": "Gazon frais coupé haut de gamme livré et installé le jour même. Nous préparons le sol, nivelons la base et posons chaque bande à joints serrés pour un fini impeccable digne d'un magazine.",
+        "longDesc": "Chaque installation commence par une véritable visite sur place — nous vérifions le drainage, la qualité du sol et l'ensoleillement avant de soumissionner, pour qu'il n'y ait aucune surprise le jour de l'installation. L'ancien gazon ou le sol nu est nivelé, un engrais de démarrage est incorporé, puis le gazon frais coupé est posé quelques heures seulement après la récolte pour une reprise racinaire maximale. Le résultat : une pelouse qui paraît terminée dès notre départ, et qui se raffermit chaque semaine par la suite.",
+        "benefits": [
+          "Attrait extérieur instantané",
+          "Démarrage sans mauvaises herbes",
+          "Joints serrés et invisibles",
+          "Enraciné en 2 à 3 semaines"
+        ],
+        "faq": [
+          {
+            "q": "Combien d'arrosage le nouveau gazon nécessite-t-il?",
+            "a": "Arrosez deux fois par jour pendant les 10 premiers jours, puis réduisez à mesure que les racines s'établissent sur 4 à 6 semaines."
+          },
+          {
+            "q": "Puis-je marcher dessus tout de suite?",
+            "a": "Un passage léger est acceptable après 10 à 14 jours. Attendez 4 semaines pour un usage régulier."
+          }
+        ]
+      },
+      "sod-removal": {
+        "tag": "Table rase",
+        "title": "Enlèvement de gazon",
+        "desc": "Retrait complet d'un gazon fatigué, mort ou abîmé — incluant le transport et la disposition. Nous laissons le sol prêt pour la prochaine étape : gazon, jardin ou aménagement.",
+        "longDesc": "Que votre pelouse soit abîmée, envahie de mauvaises herbes ou simplement due pour une remise à neuf complète, nous retirons toute la couche de gazon — herbe, chaume et réseau racinaire — jusqu'au sol propre. Tout est transporté le jour même, sans amas de débris laissé derrière. C'est l'étape essentielle avant un nouveau gazon, un jardin ou un aménagement, et c'est souvent ce qui distingue une pelouse qui échoue de nouveau en un an d'une pelouse qui prospère.",
+        "benefits": [
+          "Transport complet inclus",
+          "Bordures nettes",
+          "Sol prêt à l'installation",
+          "Perturbation minimale du terrain"
+        ],
+        "faq": [
+          {
+            "q": "Retirez-vous les racines?",
+            "a": "Oui — nous retirons toute la couche de gazon, incluant le chaume et le réseau racinaire, pour un nouveau départ propre."
+          }
+        ]
+      },
+      "hardscaping": {
+        "tag": "Conçu pour durer",
+        "title": "Aménagement paysager",
+        "desc": "Patios, allées, murs de soutènement et aménagements en pierre conçus pour les cycles de gel-dégel de Montréal. Base adéquate, joints polymères et finitions soignées.",
+        "longDesc": "Les hivers montréalais sont impitoyables envers un aménagement construit à rabais — c'est pourquoi chaque patio, allée ou mur de soutènement que nous installons commence par une base compactée, excavée adéquatement et résistante au gel. Les pavés sont posés de niveau, les joints sont remplis de sable polymère pour tout verrouiller en place, et les bordures sont retenues pour qu'aucun mouvement ne survienne après le premier cycle de gel-dégel. Garanti par le fabricant, c'est construit pour paraître aussi bien dans dix ans que le jour de la fin des travaux.",
+        "benefits": [
+          "Base résistante au gel",
+          "Joints polymères",
+          "Garantie du fabricant",
+          "Designs personnalisés"
+        ],
+        "faq": [
+          {
+            "q": "Combien de temps prend un patio en pavé-uni?",
+            "a": "La plupart des patios résidentiels sont complétés en 2 à 5 jours selon la taille et le design."
+          }
+        ]
+      },
+      "mulch-installation": {
+        "tag": "Rafraîchissement de plate-bande",
+        "title": "Installation de paillis",
+        "desc": "Paillis riche et de couleur durable installé avec des bordures nettes. Retient l'humidité, freine les mauvaises herbes et encadre instantanément votre aménagement.",
+        "longDesc": "Une plate-bande de paillis fraîche fait plus qu'embellir — elle retient l'humidité du sol tout l'été, étouffe les mauvaises herbes avant qu'elles ne s'installent, et protège les racines pendant l'hiver. Nous découpons d'abord des bordures nettes et bien définies, puis installons une couche uniforme et à la bonne profondeur de paillis de couleur durable, pour qu'il conserve son apparence toute la saison au lieu de se décolorer et de s'éroder après les premières pluies.",
+        "benefits": [
+          "Rétention d'humidité",
+          "Suppression des mauvaises herbes",
+          "Bordures nettes",
+          "Plusieurs couleurs"
+        ],
+        "faq": [
+          {
+            "q": "À quelle fréquence faut-il renouveler le paillis?",
+            "a": "Un renouvellement tous les 1 à 2 ans garde les plates-bandes fraîches et performantes."
+          }
+        ]
+      },
+      "decorative-stone": {
+        "tag": "Faible entretien",
+        "title": "Pierre décorative",
+        "desc": "Agrégats design dans une gamme de couleurs et de tailles. Parfait pour les plates-bandes modernes, bordures et sentiers qui n'ont jamais besoin d'être tondus.",
+        "longDesc": "La pierre décorative est la façon la moins exigeante d'encadrer un aménagement moderne — aucune tonte, aucun renouvellement saisonnier de paillis et aucune décoloration au soleil. Nous installons une toile géotextile de qualité commerciale en dessous pour garder les mauvaises herbes à l'écart et la pierre propre, puis plaçons à la main un agrégat design de la couleur et de la taille qui convient à votre maison, du fin gravillon à la roche décorative marquante.",
+        "benefits": [
+          "Aucune tonte",
+          "Résistant à la décoloration",
+          "Excellent drainage",
+          "Fini intemporel"
+        ],
+        "faq": [
+          {
+            "q": "Ai-je besoin d'une toile géotextile en dessous?",
+            "a": "Oui — nous installons une toile de qualité commerciale pour garder les mauvaises herbes à l'écart et la pierre propre."
+          }
+        ]
+      },
+      "river-stone": {
+        "tag": "Touche moderne",
+        "title": "Pierre de rivière",
+        "desc": "Roche de rivière lisse et polie pour lits secs, bordures de descente pluviale et touches paysagères modernes. Fonctionnelle et magnifique.",
+        "longDesc": "La pierre de rivière lisse et polie n'est pas que décorative — elle est idéale pour les zones de ruissellement des descentes pluviales, les fossés de drainage et les lits secs où le gazon ou le paillis s'éroderaient. Nous nivelons la zone pour un bon écoulement, installons une toile en dessous, puis plaçons la pierre à une profondeur qui résiste aux fortes pluies sans bouger, tout en donnant à la plate-bande un fini moderne et soigné.",
+        "benefits": [
+          "Drainage amélioré",
+          "Contrôle de l'érosion",
+          "Flexibilité de design",
+          "Longue durabilité"
+        ],
+        "faq": [
+          {
+            "q": "La pierre de rivière résiste-t-elle aux fortes pluies?",
+            "a": "Oui — elle est idéale pour les fossés de drainage et les zones de ruissellement des descentes pluviales."
+          }
+        ]
+      },
+      "lawn-transformations": {
+        "tag": "Rénovation complète",
+        "title": "Rénovation et transformation de pelouse",
+        "desc": "Rénovations complètes de terrain combinant gazon, aménagement, paillis et pierre en un aménagement paysager cohérent et haut de gamme. Une équipe, un chargé de projet, un résultat impeccable.",
+        "longDesc": "Lorsqu'un terrain a besoin de plus qu'une seule correction, une transformation complète est presque toujours plus rapide et plus réussie que de traiter chaque élément séparément. Nous planifions le gazon, l'aménagement, le paillis et la pierre comme un seul design cohérent dès le départ, pour que les niveaux, les matériaux et les perspectives s'harmonisent. Une seule équipe et un seul chargé de projet gèrent l'ensemble du travail, ce qui signifie moins de transitions, moins de surprises, et un terrain fini qui se lit comme un design unique et intentionnel plutôt qu'un assemblage d'ajouts.",
+        "benefits": [
+          "Point de contact unique",
+          "Design cohérent",
+          "Réalisation plus rapide",
+          "Meilleur résultat final"
+        ],
+        "faq": [
+          {
+            "q": "Pouvez-vous aussi gérer le design?",
+            "a": "Oui — nous aidons à planifier l'aménagement, les matériaux et les phases lors de votre estimation gratuite sur place."
+          }
+        ]
+      }
+    }
+  },
+  "areas": {
+    "eyebrow": "Secteur desservi",
+    "servicesHeading": "Services offerts ici",
+    "testimonialEyebrow": "Ce que disent nos clients",
+    "faqHeading": "Questions fréquentes",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbAreas": "Secteurs desservis",
+    "getQuote": "Obtenir une soumission gratuite",
+    "items": {
+      "montreal": {
+        "name": "Montréal",
+        "heading": "Aménagement paysager et installation de gazon à Montréal",
+        "intro": "Du Plateau à NDG, nous installons du gazon, construisons des patios et transformons des pelouses pour les propriétaires partout sur l'île de Montréal. En tant qu'équipe basée localement, nous connaissons les terrains urbains restreints, l'accès par ruelle et les particularités des permis d'arrondissement que les franchises pancanadiennes ne connaissent pas.",
+        "highlights": [
+          "Installation de gazon en une journée pour les terrains urbains typiques",
+          "Expérience avec l'accès restreint par ruelles et allées",
+          "Connaissance des exigences d'arrondissement pour les travaux d'aménagement"
+        ],
+        "testimonial": {
+          "name": "Sophie D.",
+          "quote": "Ils ont retiré notre vieux gazon et posé du gazon frais avant le souper. Fini incroyable, joints serrés, aucun dégât laissé derrière."
+        },
+        "faq": [
+          {
+            "q": "Quels secteurs de Montréal desservez-vous?",
+            "a": "L'île au complet — du centre-ville et du Plateau à NDG, Rosemont et Ahuntsic."
+          },
+          {
+            "q": "À quelle vitesse pouvez-vous démarrer un projet à Montréal?",
+            "a": "La plupart des soumissions montréalaises sont planifiées dans la semaine, avec une installation complétée en une seule journée pour les terrains typiques."
+          }
+        ]
+      },
+      "laval": {
+        "name": "Laval",
+        "heading": "Aménagement paysager et installation de gazon à Laval",
+        "intro": "Les grands terrains résidentiels et les développements plus récents font de Laval l'un de nos secteurs les plus actifs — des installations complètes de gazon à Chomedey aux projets d'aménagement de cour arrière à Sainte-Dorothée.",
+        "highlights": [
+          "Capacité d'équipe supplémentaire pour les grands terrains de Laval",
+          "Expérience avec les conditions de sol des nouveaux développements",
+          "Planification rapide dans tous les secteurs de Laval"
+        ],
+        "testimonial": {
+          "name": "Amélie R.",
+          "quote": "Du premier appel à la visite finale, tout s'est déroulé de façon professionnelle. Les prix étaient justes et l'équipe respectueuse."
+        },
+        "faq": [
+          {
+            "q": "Desservez-vous tout Laval?",
+            "a": "Oui — tous les secteurs, de Chomedey et Duvernay à Sainte-Dorothée et Fabreville."
+          },
+          {
+            "q": "Pouvez-vous gérer les grands terrains de Laval?",
+            "a": "Absolument — notre équipe et notre équipement sont adaptés aux grandes superficies courantes à Laval."
+          }
+        ]
+      },
+      "west-island": {
+        "name": "Rive-Ouest",
+        "heading": "Aménagement paysager et installation de gazon sur la Rive-Ouest",
+        "intro": "Pointe-Claire, Kirkland, Beaconsfield et le reste de la Rive-Ouest accueillent certains de nos projets d'aménagement et de transformation de pelouse les plus détaillés — les terrains matures avec arbres établis demandent une approche plus minutieuse, et c'est là que notre équipe passe beaucoup de temps.",
+        "highlights": [
+          "Expérience de travail autour d'arbres matures et d'aménagements établis",
+          "Travaux détaillés d'aménagement et de transformation de pelouse",
+          "Planification régulière dans toutes les municipalités de la Rive-Ouest"
+        ],
+        "testimonial": {
+          "name": "Marc L.",
+          "quote": "Soumission honnête, arrivés à l'heure et travail méticuleux. Notre cour avant est facilement la plus belle du quartier maintenant."
+        },
+        "faq": [
+          {
+            "q": "Quelles municipalités de la Rive-Ouest desservez-vous?",
+            "a": "Pointe-Claire, Kirkland, Beaconsfield, Dollard-des-Ormeaux, Dorval et les environs."
+          },
+          {
+            "q": "Pouvez-vous travailler autour d'arbres et jardins matures?",
+            "a": "Oui — nous travaillons régulièrement autour d'aménagements établis sans perturber les systèmes racinaires ou les plates-bandes existantes."
+          }
+        ]
+      },
+      "south-shore": {
+        "name": "Rive-Sud",
+        "heading": "Aménagement paysager et installation de gazon sur la Rive-Sud",
+        "intro": "Brossard, Longueuil, Saint-Lambert et le reste de la Rive-Sud bénéficient de la même équipe, des mêmes matériaux et de la même tarification que nos projets sur l'île — simplement sans le trafic du pont pour vous.",
+        "highlights": [
+          "Même équipe, matériaux et tarification que nos projets sur l'île",
+          "Trajets réguliers à Brossard, Longueuil et Saint-Lambert",
+          "Projets combinés de gazon, aménagement et pierre offerts"
+        ],
+        "testimonial": {
+          "name": "David S.",
+          "quote": "Nous avons combiné gazon, paillis et pierre de rivière. Le terrain fini ressemble à une photo de magazine."
+        },
+        "faq": [
+          {
+            "q": "Desservez-vous toute la Rive-Sud?",
+            "a": "Oui — Brossard, Longueuil, Saint-Lambert, Saint-Hubert et les municipalités environnantes."
+          },
+          {
+            "q": "La tarification est-elle différente sur la Rive-Sud?",
+            "a": "Non — les soumissions sont basées sur le projet lui-même, pas sur l'emplacement dans le Grand Montréal."
+          }
+        ]
+      },
+      "north-shore": {
+        "name": "Rive-Nord",
+        "heading": "Aménagement paysager et installation de gazon sur la Rive-Nord",
+        "intro": "Blainville, Terrebonne, Mirabel et le reste de la Rive-Nord sont un arrêt régulier pour notre équipe, des rafraîchissements de gazon en une journée aux transformations complètes de pelouse.",
+        "highlights": [
+          "Planification régulière à Blainville, Terrebonne et Mirabel",
+          "Services complets de gazon, aménagement, paillis et pierre offerts",
+          "Estimations gratuites sur place, comme partout ailleurs où nous intervenons"
+        ],
+        "testimonial": {
+          "name": "Isabelle T.",
+          "quote": "Excellente communication de la soumission jusqu'à la fin des travaux. Notre cour arrière ressemble enfin à ce qu'on avait toujours imaginé."
+        },
+        "faq": [
+          {
+            "q": "Desservez-vous toute la Rive-Nord?",
+            "a": "Oui — Blainville, Terrebonne, Mirabel, Boisbriand et les communautés environnantes."
+          },
+          {
+            "q": "Combien de temps à l'avance faut-il réserver un projet sur la Rive-Nord?",
+            "a": "Habituellement une à deux semaines à l'avance, plus rapidement en dehors de la haute saison du printemps et de l'automne."
+          }
+        ]
+      }
+    }
+  },
+  "areasIndex": {
+    "eyebrow": "Où nous intervenons",
+    "heading": "Aménagement paysager partout dans le Grand Montréal.",
+    "paragraph": "Installation de gazon, aménagement paysager et transformation de pelouses livrés par la même équipe locale, peu importe le secteur de la ville où vous êtes.",
+    "learnMore": "Voir le secteur"
+  },
+  "contact": {
+    "eyebrow": "Contactez-nous",
+    "heading": "Soumission gratuite. Aucune pression. Réponse rapide.",
+    "subheading": "Parlez-nous un peu de votre terrain et nous vous reviendrons avec une estimation honnête et sans détour — habituellement en moins d'une journée ouvrable.",
+    "formTitle": "Demandez votre soumission gratuite",
+    "requiredNote": "Les champs marqués d'un * sont obligatoires.",
+    "fieldName": "Nom *",
+    "fieldPhone": "Téléphone *",
+    "fieldEmail": "Courriel *",
+    "fieldCity": "Ville *",
+    "fieldAddress": "Adresse de la propriété",
+    "fieldService": "Service souhaité *",
+    "fieldServicePlaceholder": "Choisissez un service…",
+    "fieldMessage": "Parlez-nous de votre projet",
+    "fieldMessagePlaceholder": "Superficie approximative, échéancier, ou tout autre détail utile pour une soumission précise.",
+    "serviceUnsure": "Je ne suis pas certain — aidez-moi à choisir",
+    "sending": "Envoi…",
+    "submit": "Envoyer",
+    "callLabel": "Appeler le {phone}",
+    "directContact": "Contact direct",
+    "servingArea": "Au service du Grand Montréal",
+    "hours": "Heures d'ouverture",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Vous préférez lire d'abord?",
+    "faqBody": "Consultez les questions fréquentes sur les coûts, les délais et les matériaux.",
+    "validation": {
+      "name": "Veuillez entrer votre nom",
+      "phone": "Entrez un numéro de téléphone valide",
+      "email": "Entrez une adresse courriel valide",
+      "city": "Entrez votre ville",
+      "service": "Choisissez un service"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "L'équipe de gazon et d'aménagement paysager premium de Montréal",
+      "headingPart1": "Votre gazon,",
+      "headingPart2": "Notre chef-d'œuvre.",
+      "paragraph": "Enlèvement de gazon, installation, aménagement paysager et transformation de pelouses professionnels à Montréal et dans les environs — conçus pour être impeccables dès le premier jour.",
+      "ctaQuote": "Soumission gratuite",
+      "ctaCall": "Appeler le {phone}",
+      "badges": [
+        "Soumissions gratuites",
+        "Experts locaux",
+        "Basés à Montréal",
+        "Qualité supérieure"
+      ],
+      "scrollLabel": "Défiler"
+    },
+    "trustStrip": [
+      { "value": "5.0", "label": "Note Google" },
+      { "value": "500+", "label": "Pelouses transformées" },
+      { "value": "6+", "label": "Régions desservies" },
+      { "value": "10 ans", "label": "Savoir-faire" }
+    ],
+    "services": {
+      "eyebrow": "Ce que nous faisons",
+      "heading": "Tout ce dont votre terrain a besoin, fait avec excellence.",
+      "paragraph": "Des rafraîchissements de gazon en une journée aux refontes paysagères complètes, chaque projet est mesuré, préparé et installé avec un soin méticuleux.",
+      "learnMore": "En savoir plus",
+      "items": {
+        "sod-installation": {
+          "title": "Installation de gazon",
+          "short": "Gazon frais coupé haut de gamme, posé à joints serrés pour une pelouse luxuriante instantanée."
+        },
+        "sod-removal": {
+          "title": "Enlèvement de gazon",
+          "short": "Enlèvement et disposition complets d'un vieux gazon mort ou abîmé."
+        },
+        "hardscaping": {
+          "title": "Aménagement paysager",
+          "short": "Patios, allées et aménagements en pierre conçus pour résister aux hivers montréalais."
+        },
+        "mulch-installation": {
+          "title": "Installation de paillis",
+          "short": "Lits de paillis riches qui retiennent l'humidité et embellissent votre aménagement."
+        },
+        "decorative-stone": {
+          "title": "Pierre décorative",
+          "short": "Agrégats et galets design pour un attrait extérieur à faible entretien."
+        },
+        "river-stone": {
+          "title": "Pierre de rivière",
+          "short": "Roche de rivière lisse pour le drainage, les lits secs et les touches modernes."
+        },
+        "lawn-transformations": {
+          "title": "Transformation de pelouse",
+          "short": "Rénovations complètes de terrain — d'un gazon fatigué à une pelouse digne d'un magazine."
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "Pourquoi Grassmasters",
+      "heading": "Un savoir-faire sur lequel vous pouvez marcher.",
+      "paragraph": "Nous traitons chaque terrain comme le nôtre — de la préparation du sol au nivellement jusqu'à la dernière bordure roulée. C'est pourquoi notre travail paraît mieux au jour 365 que celui de la plupart des équipes au jour un.",
+      "quote": "Le meilleur gazon posé qu'on ait vu dans notre rue.",
+      "quoteAuthor": "— Marc L., Rive-Ouest",
+      "benefits": [
+        {
+          "title": "Équipe expérimentée",
+          "desc": "Des équipes formées qui se soucient des détails que d'autres négligent."
+        },
+        {
+          "title": "Matériaux haut de gamme",
+          "desc": "Gazon frais coupé, agrégats de première qualité, paillis de qualité — toujours."
+        },
+        {
+          "title": "Souci du détail",
+          "desc": "Joints serrés, bordures nettes, surfaces de niveau — sur chaque projet."
+        },
+        {
+          "title": "Horaire fiable",
+          "desc": "Nous arrivons quand nous le disons et terminons quand promis."
+        },
+        {
+          "title": "Prix transparents",
+          "desc": "Soumissions détaillées. Aucune surprise. Ce qu'on soumissionne est ce que vous payez."
+        },
+        {
+          "title": "Estimations gratuites",
+          "desc": "Estimations sur place partout dans le Grand Montréal, sans obligation."
+        },
+        {
+          "title": "Satisfaction client",
+          "desc": "Noté 5 étoiles par les voisins de Montréal et de la Rive-Sud."
+        },
+        {
+          "title": "Équipement moderne",
+          "desc": "Les bons outils pour une préparation propre et des installations rapides et soignées."
+        }
+      ]
+    },
+    "transformation": {
+      "eyebrow": "Avant & après",
+      "heading": "De vrais terrains montréalais. De vraies transformations.",
+      "paragraph": "Glissez le curseur pour voir comment une seule journée change tout.",
+      "caption": "Enlèvement et installation de gazon — Laval, QC",
+      "meta": "1 800 pi² · complété en une journée",
+      "cta": "Voir la galerie complète",
+      "beforeAlt": "Cour avant en terre nue, avec sol dénudé et fossé de drainage, avant l'installation du gazon",
+      "afterAlt": "La même cour avant recouverte de gazon vert frais, sur la pente et le fossé de drainage"
+    },
+    "process": {
+      "eyebrow": "Notre processus",
+      "heading": "Six étapes du premier appel à la pelouse parfaite.",
+      "steps": [
+        {
+          "title": "Soumission gratuite",
+          "desc": "Partagez votre projet et obtenez une estimation rapide et détaillée."
+        },
+        {
+          "title": "Visite sur place",
+          "desc": "Nous mesurons, évaluons le sol et confirmons chaque détail sur place."
+        },
+        { "title": "Préparation", "desc": "Ancien gazon retiré, sol nivelé, amendé et roulé." },
+        {
+          "title": "Installation",
+          "desc": "Gazon, pierre ou paillis frais installés avec une précision méticuleuse."
+        },
+        {
+          "title": "Visite finale",
+          "desc": "Nous inspectons ensemble et remettons les instructions d'entretien."
+        },
+        {
+          "title": "Profitez de votre pelouse",
+          "desc": "Réveillez-vous avec un terrain que vos voisins remarqueront."
+        }
+      ]
+    },
+    "seasonal": {
+      "badge": "Disponibilité limitée",
+      "heading": "Réservations en cours pour les prochaines dates d'installation.",
+      "paragraph": "Notre horaire se remplit rapidement en haute saison. Réservez votre projet dès aujourd'hui pour confirmer votre semaine d'installation préférée.",
+      "cta": "Réserver maintenant",
+      "callNow": "Appeler maintenant"
+    },
+    "testimonials": {
+      "eyebrow": "Appréciés localement",
+      "heading": "5 étoiles partout dans le Grand Montréal.",
+      "basedOn": "Basé sur les avis Google et Facebook",
+      "items": [
+        {
+          "name": "Sophie D.",
+          "loc": "Plateau, Montréal",
+          "quote": "Ils ont retiré notre vieux gazon et posé du gazon frais avant le souper. Fini incroyable, joints serrés, aucun dégât laissé derrière."
+        },
+        {
+          "name": "Marc L.",
+          "loc": "Rive-Ouest",
+          "quote": "Soumission honnête, arrivés à l'heure et travail méticuleux. Notre cour avant est facilement la plus belle du quartier maintenant."
+        },
+        {
+          "name": "Amélie R.",
+          "loc": "Laval",
+          "quote": "Du premier appel à la visite finale, tout s'est déroulé de façon professionnelle. Les prix étaient justes et l'équipe respectueuse."
+        },
+        {
+          "name": "David S.",
+          "loc": "Rive-Sud",
+          "quote": "Nous avons combiné gazon, paillis et pierre de rivière. Le terrain fini ressemble à une photo de magazine."
+        }
+      ]
+    },
+    "areas": {
+      "eyebrow": "Zones desservies",
+      "heading": "Fièrement au service du Grand Montréal.",
+      "paragraph": "Entreprise locale, gérée localement. Si vous êtes à moins d'une heure du centre-ville de Montréal, nous pouvons être chez vous.",
+      "surroundingAreas": "Régions environnantes"
+    },
+    "faq": {
+      "eyebrow": "Réponses",
+      "heading": "Des réponses claires sur votre projet de pelouse.",
+      "callPrefix": "Encore des questions? Appelez-nous au",
+      "callSuffix": "— nous serons heureux d'en discuter.",
+      "items": [
+        {
+          "q": "Combien coûte l'installation de gazon à Montréal?",
+          "a": "La plupart des installations résidentielles de gazon à Montréal se situent entre 2 $ et 4 $ le pied carré installé, selon la préparation du site, l'accès et la qualité du matériel. Chaque soumission de Grassmasters MTL est gratuite, détaillée et respectée."
+        },
+        {
+          "q": "Combien de temps faut-il pour que le nouveau gazon s'enracine?",
+          "a": "Le gazon fraîchement posé s'ancre généralement au sol en 10 à 14 jours et s'enracine complètement en 4 à 6 semaines. L'arrosage quotidien pendant les deux premières semaines est essentiel."
+        },
+        {
+          "q": "Retirez-vous l'ancien gazon avant d'installer le nouveau?",
+          "a": "Oui. Nous retirons complètement le gazon existant, nivelons et amendons le sol, puis installons du gazon frais pour un résultat serré et sans coutures visibles."
+        },
+        {
+          "q": "Quel est le meilleur moment pour installer du gazon à Montréal?",
+          "a": "Les périodes idéales sont de la mi-mai à juin et de la mi-août au début octobre. Les températures fraîches et l'humidité constante aident le gazon à s'établir rapidement."
+        },
+        {
+          "q": "Combien de temps dure une installation typique?",
+          "a": "La plupart des cours avant ou arrière sont complétées en une seule journée. Les propriétés plus grandes ou les projets combinés d'aménagement prennent 2 à 4 jours."
+        },
+        {
+          "q": "Offrez-vous des estimations gratuites?",
+          "a": "Absolument. Les estimations sur place partout dans le Grand Montréal sont gratuites et sans obligation."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Prêts quand vous l'êtes",
+      "heading": "Prêt à transformer votre pelouse?",
+      "paragraph": "Obtenez votre estimation gratuite dès aujourd'hui. Aucune pression, aucune obligation — juste une soumission honnête d'une équipe locale qui se soucie de vous.",
+      "ctaQuote": "Soumission gratuite"
+    }
+  }
+}
