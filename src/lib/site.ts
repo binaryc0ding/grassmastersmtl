@@ -7,7 +7,7 @@ export const SITE = {
   email: "Grassmastersmtl@outlook.com",
   emailHref: "mailto:Grassmastersmtl@outlook.com",
   instagram: "https://instagram.com/GrassmastersMTL",
-  facebook: "https://facebook.com/GrassmastersMTL",
+  facebook: "https://www.facebook.com/profile.php?id=61588091090485",
   city: "Montreal",
   region: "Quebec",
   country: "Canada",
@@ -45,7 +45,7 @@ export const SERVICES = [
   {
     slug: "sod-removal",
     icon: "Shovel",
-    img: "sod",
+    img: "removal",
     slugs: { "fr-CA": "enlevement-de-gazon", "en-CA": "sod-removal" },
   },
   {
@@ -75,7 +75,7 @@ export const SERVICES = [
   {
     slug: "lawn-transformations",
     icon: "Wand2",
-    img: "sod",
+    img: "transform",
     slugs: { "fr-CA": "transformation-de-pelouse", "en-CA": "lawn-transformations" },
   },
 ] as const;

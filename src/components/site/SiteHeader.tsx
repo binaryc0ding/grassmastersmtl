@@ -49,15 +49,16 @@ export function SiteHeader() {
     >
       <div className="container-x flex h-16 items-center justify-between md:h-20">
         <Link href="/" className="group flex items-center gap-2.5">
-          <span
+          <img
+            src="/logo.jpg"
+            alt="Grassmasters MTL"
+            width={40}
+            height={40}
             className={[
-              "grid h-9 w-9 place-items-center rounded-xl transition",
-              solid ? "bg-primary text-white" : "bg-white/15 text-white backdrop-blur",
+              "h-9 w-9 rounded-xl object-cover shadow-sm transition sm:h-10 sm:w-10",
+              solid ? "ring-1 ring-black/10" : "ring-1 ring-white/25",
             ].join(" ")}
-            aria-hidden
-          >
-            <LeafMark />
-          </span>
+          />
           <span
             className={[
               "font-display text-[15px] font-extrabold tracking-tight sm:text-base",
@@ -168,17 +169,4 @@ export function SiteHeader() {
   );
 }
 
-function LeafMark() {
-  return (
-    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden>
-      <path d="M4 20C4 12 10 5 20 4c-.5 10-7.5 16-16 16Z" fill="currentColor" />
-      <path
-        d="M4 20C8 16 12 12 20 4"
-        stroke="white"
-        strokeOpacity=".55"
-        strokeWidth="1.2"
-        strokeLinecap="round"
-      />
-    </svg>
-  );
-}
+

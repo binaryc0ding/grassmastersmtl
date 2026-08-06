@@ -6,16 +6,20 @@ import { baseOpenGraph, localizedAlternates } from "@/lib/metadata";
 import { SERVICES, serviceSlug } from "@/lib/site";
 
 const sodImg = "/assets/service-sod.jpg";
+const sodRemovalImg = "/assets/service-sod-removal.jpg";
 const hardscapeImg = "/assets/service-hardscape.jpg";
 const mulchImg = "/assets/service-mulch.jpg";
 const stoneImg = "/assets/service-stone.jpg";
+const transformImg = "/assets/service-lawn-transform.jpg";
 const gallery1 = "/assets/gallery-1.jpg";
 
 const imgMap: Record<string, string> = {
   sod: sodImg,
+  removal: sodRemovalImg,
   hardscape: hardscapeImg,
   mulch: mulchImg,
   stone: stoneImg,
+  transform: transformImg,
 };
 
 export async function generateMetadata({

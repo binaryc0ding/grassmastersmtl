@@ -150,9 +150,18 @@
     "privacy": "Confidentialité",
     "terms": "Modalités",
     "hoursItems": [
-      { "day": "Lun. – Ven.", "range": "7 h à 19 h" },
-      { "day": "Samedi", "range": "8 h à 17 h" },
-      { "day": "Dimanche", "range": "Sur rendez-vous" }
+      {
+        "day": "Lun. – Ven.",
+        "range": "7 h à 19 h"
+      },
+      {
+        "day": "Samedi",
+        "range": "8 h à 17 h"
+      },
+      {
+        "day": "Dimanche",
+        "range": "Sur rendez-vous"
+      }
     ],
     "serviceLinks": {
       "sod-installation": "Installation de gazon",
@@ -238,9 +247,18 @@
     "heading": "Une équipe montréalaise qui traite chaque pelouse comme la sienne.",
     "intro": "Grassmasters MTL est né d'une idée simple — qu'une entreprise d'aménagement paysager puisse combiner des matériaux haut de gamme, un savoir-faire méticuleux et une tarification transparente. Aujourd'hui, nous sommes l'une des équipes de référence du Grand Montréal pour le gazon, l'aménagement et la transformation complète de pelouses.",
     "stats": [
-      { "value": "500+", "label": "Projets réalisés" },
-      { "value": "5.0★", "label": "Note moyenne" },
-      { "value": "10 ans", "label": "Expérience du métier" }
+      {
+        "value": "500+",
+        "label": "Projets réalisés"
+      },
+      {
+        "value": "5.0★",
+        "label": "Note moyenne"
+      },
+      {
+        "value": "10 ans",
+        "label": "Expérience du métier"
+      }
     ],
     "basedIn": "Basés à Montréal",
     "servingAreas": "Au service de Laval, Rive-Ouest, Rive-Sud et Rive-Nord",
@@ -285,16 +303,18 @@
       "finished": "Terminé"
     },
     "alts": [
-      "Vue aérienne d'un aménagement paysager de cour arrière terminé",
-      "Cour avant après l'installation de gazon",
+      "Cour avant après installation de gazon frais",
       "Cour avant avant l'installation de gazon",
-      "Installation d'un aménagement en pierre pour patio",
-      "Détail de bordure de gazon avec bordure de pierre",
-      "Lits de paillis frais autour d'arbustes",
-      "Transformation de l'attrait extérieur d'une cour avant",
-      "Sentier décoratif en pierre de rivière",
-      "Gros plan d'une installation de gazon frais",
-      "Vue aérienne d'une pelouse haut de gamme à l'heure dorée"
+      "Pelouse terminée après rénovation complète",
+      "Chantier Grassmasters MTL en cours",
+      "Projet de paysagement résidentiel à Montréal",
+      "Résultat après pose de gazon et aménagement",
+      "Terrain préparé avant installation",
+      "Transformation de pelouse terminée",
+      "Cour avant avant travaux de gazon",
+      "Nouveau gazon posé à joints serrés",
+      "État initial du terrain avant travaux",
+      "Pelouse luxuriante après installation"
     ]
   },
   "faq": {
@@ -678,10 +698,22 @@
       "scrollLabel": "Défiler"
     },
     "trustStrip": [
-      { "value": "5.0", "label": "Note Google" },
-      { "value": "500+", "label": "Pelouses transformées" },
-      { "value": "6+", "label": "Régions desservies" },
-      { "value": "10 ans", "label": "Savoir-faire" }
+      {
+        "value": "5.0",
+        "label": "Note Google"
+      },
+      {
+        "value": "500+",
+        "label": "Pelouses transformées"
+      },
+      {
+        "value": "6+",
+        "label": "Régions desservies"
+      },
+      {
+        "value": "10 ans",
+        "label": "Savoir-faire"
+      }
     ],
     "services": {
       "eyebrow": "Ce que nous faisons",
@@ -782,7 +814,10 @@
           "title": "Visite sur place",
           "desc": "Nous mesurons, évaluons le sol et confirmons chaque détail sur place."
         },
-        { "title": "Préparation", "desc": "Ancien gazon retiré, sol nivelé, amendé et roulé." },
+        {
+          "title": "Préparation",
+          "desc": "Ancien gazon retiré, sol nivelé, amendé et roulé."
+        },
         {
           "title": "Installation",
           "desc": "Gazon, pierre ou paillis frais installés avec une précision méticuleuse."

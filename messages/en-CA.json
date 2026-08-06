@@ -150,9 +150,18 @@
     "privacy": "Privacy",
     "terms": "Terms",
     "hoursItems": [
-      { "day": "Mon – Fri", "range": "7:00 AM – 7:00 PM" },
-      { "day": "Saturday", "range": "8:00 AM – 5:00 PM" },
-      { "day": "Sunday", "range": "By appointment" }
+      {
+        "day": "Mon – Fri",
+        "range": "7:00 AM – 7:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "range": "8:00 AM – 5:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "range": "By appointment"
+      }
     ],
     "serviceLinks": {
       "sod-installation": "Sod Installation",
@@ -238,9 +247,18 @@
     "heading": "A Montreal crew that treats every lawn like its own.",
     "intro": "Grassmasters MTL started with a simple idea — that a landscaping company could combine premium materials, obsessive craftsmanship and straightforward pricing. Today we're one of Greater Montreal's go-to teams for sod, hardscape and full lawn transformations.",
     "stats": [
-      { "value": "500+", "label": "Projects delivered" },
-      { "value": "5.0★", "label": "Average rating" },
-      { "value": "10 yr", "label": "Craft experience" }
+      {
+        "value": "500+",
+        "label": "Projects delivered"
+      },
+      {
+        "value": "5.0★",
+        "label": "Average rating"
+      },
+      {
+        "value": "10 yr",
+        "label": "Craft experience"
+      }
     ],
     "basedIn": "Based in Montreal",
     "servingAreas": "Serving Laval, West Island, South & North Shore",
@@ -254,10 +272,22 @@
     "valuesEyebrow": "Our values",
     "valuesHeading": "What we won't compromise on.",
     "values": [
-      { "title": "Integrity", "desc": "Honest quotes, honest timelines, honest work. Always." },
-      { "title": "Craftsmanship", "desc": "Details matter — edges, seams, levels, cleanup." },
-      { "title": "Local First", "desc": "Neighbours serving neighbours across Greater Montreal." },
-      { "title": "Quality Materials", "desc": "Fresh sod, top-grade aggregates, no shortcuts." }
+      {
+        "title": "Integrity",
+        "desc": "Honest quotes, honest timelines, honest work. Always."
+      },
+      {
+        "title": "Craftsmanship",
+        "desc": "Details matter — edges, seams, levels, cleanup."
+      },
+      {
+        "title": "Local First",
+        "desc": "Neighbours serving neighbours across Greater Montreal."
+      },
+      {
+        "title": "Quality Materials",
+        "desc": "Fresh sod, top-grade aggregates, no shortcuts."
+      }
     ]
   },
   "gallery": {
@@ -273,16 +303,18 @@
       "finished": "Finished"
     },
     "alts": [
-      "Aerial view of finished backyard landscape",
-      "Front yard after sod installation",
+      "Front yard after fresh sod installation",
       "Front yard before sod installation",
-      "Stone patio hardscape installation",
-      "Sod edge detail with stone border",
-      "Fresh mulch beds around shrubs",
-      "Front yard curb appeal transformation",
-      "Decorative river stone pathway",
-      "Fresh sod installation close up",
-      "Golden hour view of premium lawn"
+      "Finished lawn after a full renovation",
+      "Grassmasters MTL project in progress",
+      "Residential landscaping project in Montreal",
+      "Result after sod install and landscaping",
+      "Prepared lot before installation",
+      "Completed lawn transformation",
+      "Front yard before sod work",
+      "Fresh sod laid with tight seams",
+      "Initial yard condition before work",
+      "Lush lawn after installation"
     ]
   },
   "faq": {
@@ -428,7 +460,12 @@
         "title": "Decorative Stone",
         "desc": "Designer aggregates in a range of colours and sizes. Perfect for modern beds, borders and pathways that never need mowing.",
         "longDesc": "Decorative stone is the lowest-maintenance way to frame a modern landscape — no mowing, no seasonal mulch top-ups, and no fading in the sun. We install commercial-grade landscape fabric underneath to keep weeds out and the stone clean, then hand-place a designer aggregate in the colour and size that fits your home, from fine pea gravel to bold statement rock.",
-        "benefits": ["Zero mowing", "Fade-resistant", "Excellent drainage", "Timeless finish"],
+        "benefits": [
+          "Zero mowing",
+          "Fade-resistant",
+          "Excellent drainage",
+          "Timeless finish"
+        ],
         "faq": [
           {
             "q": "Do I need landscape fabric underneath?",
@@ -441,7 +478,12 @@
         "title": "River Stone",
         "desc": "Smooth, tumbled river rock for dry beds, downspout borders and modern landscape accents. Functional and beautiful.",
         "longDesc": "Smooth, tumbled river stone earns its keep as much as it looks good — it's ideal for downspout runoff areas, drainage swales and dry creek beds where grass or mulch would wash out. We grade the area for proper flow, install fabric underneath, and set the stone at a depth that handles heavy rain without shifting, all while giving the bed a clean, modern finish.",
-        "benefits": ["Improved drainage", "Erosion control", "Design flexibility", "Long-lasting"],
+        "benefits": [
+          "Improved drainage",
+          "Erosion control",
+          "Design flexibility",
+          "Long-lasting"
+        ],
         "faq": [
           {
             "q": "Can river stone handle heavy rain?",
@@ -647,14 +689,31 @@
       "paragraph": "Professional sod removal, installation, hardscaping and lawn transformations across Montreal and surrounding areas — engineered to look flawless from day one.",
       "ctaQuote": "Get Free Quote",
       "ctaCall": "Call {phone}",
-      "badges": ["Free Quotes", "Local Experts", "Montreal Based", "Premium Quality"],
+      "badges": [
+        "Free Quotes",
+        "Local Experts",
+        "Montreal Based",
+        "Premium Quality"
+      ],
       "scrollLabel": "Scroll"
     },
     "trustStrip": [
-      { "value": "5.0", "label": "Google rating" },
-      { "value": "500+", "label": "Lawns transformed" },
-      { "value": "6+", "label": "Regions served" },
-      { "value": "10 yr", "label": "Craftsmanship" }
+      {
+        "value": "5.0",
+        "label": "Google rating"
+      },
+      {
+        "value": "500+",
+        "label": "Lawns transformed"
+      },
+      {
+        "value": "6+",
+        "label": "Regions served"
+      },
+      {
+        "value": "10 yr",
+        "label": "Craftsmanship"
+      }
     ],
     "services": {
       "eyebrow": "What we do",
@@ -747,12 +806,18 @@
       "eyebrow": "Our process",
       "heading": "Six steps from first call to flawless lawn.",
       "steps": [
-        { "title": "Free Quote", "desc": "Share your project and get a fast, itemized estimate." },
+        {
+          "title": "Free Quote",
+          "desc": "Share your project and get a fast, itemized estimate."
+        },
         {
           "title": "Site Visit",
           "desc": "We measure, assess soil and confirm every detail on-site."
         },
-        { "title": "Preparation", "desc": "Old turf out, soil levelled, amended and rolled." },
+        {
+          "title": "Preparation",
+          "desc": "Old turf out, soil levelled, amended and rolled."
+        },
         {
           "title": "Installation",
           "desc": "Fresh sod, stone or mulch installed with obsessive precision."
@@ -761,7 +826,10 @@
           "title": "Final Walkthrough",
           "desc": "We inspect together and hand off care instructions."
         },
-        { "title": "Enjoy Your Lawn", "desc": "Wake up to a yard your neighbours will notice." }
+        {
+          "title": "Enjoy Your Lawn",
+          "desc": "Wake up to a yard your neighbours will notice."
+        }
       ]
     },
     "seasonal": {

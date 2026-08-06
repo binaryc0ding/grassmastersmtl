@@ -23,11 +23,13 @@ export function SiteFooter() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-5">
           <div>
             <div className="flex items-center gap-2.5">
-              <span className="grid h-9 w-9 place-items-center rounded-xl bg-primary text-white">
-                <svg viewBox="0 0 24 24" width="18" height="18" fill="none">
-                  <path d="M4 20C4 12 10 5 20 4c-.5 10-7.5 16-16 16Z" fill="currentColor" />
-                </svg>
-              </span>
+              <img
+                src="/logo.jpg"
+                alt="Grassmasters MTL"
+                width={40}
+                height={40}
+                className="h-9 w-9 rounded-xl object-cover ring-1 ring-white/15"
+              />
               <span className="font-display text-base font-extrabold text-white">
                 Grassmasters<span className="text-primary"> MTL</span>
               </span>

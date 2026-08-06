@@ -11,21 +11,25 @@ const hardscapeImg = "/assets/service-hardscape.jpg";
 const mulchImg = "/assets/service-mulch.jpg";
 const stoneImg = "/assets/service-stone.jpg";
 const sodImg = "/assets/service-sod.jpg";
+const transformImg = "/assets/service-lawn-transform.jpg";
 const beforeImg = "/assets/before-1.jpg";
 const afterImg = "/assets/after-1.jpg";
-const heroImg = "/assets/hero-lawn.jpg";
+const beforeLegacy = "/images/before.jpg";
+const afterLegacy = "/images/after.jpg";
 
 const IMAGES: { src: string; cat: "before" | "after" | "drone" | "finished"; span?: string }[] = [
-  { src: gallery1, cat: "drone", span: "md:col-span-2 md:row-span-2" },
-  { src: afterImg, cat: "after" },
+  { src: afterImg, cat: "after", span: "md:col-span-2 md:row-span-2" },
   { src: beforeImg, cat: "before" },
-  { src: hardscapeImg, cat: "finished" },
-  { src: gallery2, cat: "finished", span: "md:row-span-2" },
-  { src: mulchImg, cat: "finished" },
-  { src: gallery3, cat: "finished" },
-  { src: stoneImg, cat: "finished" },
+  { src: gallery1, cat: "finished" },
+  { src: gallery2, cat: "finished" },
+  { src: gallery3, cat: "finished", span: "md:row-span-2" },
+  { src: mulchImg, cat: "after" },
+  { src: hardscapeImg, cat: "before" },
+  { src: transformImg, cat: "finished" },
+  { src: stoneImg, cat: "before" },
   { src: sodImg, cat: "after" },
-  { src: heroImg, cat: "drone" },
+  { src: beforeLegacy, cat: "before" },
+  { src: afterLegacy, cat: "after" },
 ];
 
 const CATEGORY_KEYS = ["all", "before", "after", "drone", "finished"] as const;

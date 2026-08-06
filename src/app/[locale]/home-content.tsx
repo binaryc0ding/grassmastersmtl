@@ -31,9 +31,11 @@ import { useState } from "react";
 
 const heroImg = "/assets/hero-lawn.jpg";
 const sodImg = "/assets/service-sod.jpg";
+const sodRemovalImg = "/assets/service-sod-removal.jpg";
 const hardscapeImg = "/assets/service-hardscape.jpg";
 const mulchImg = "/assets/service-mulch.jpg";
 const stoneImg = "/assets/service-stone.jpg";
+const transformImg = "/assets/service-lawn-transform.jpg";
 const beforeImg = "/assets/before-1.jpg";
 const afterImg = "/assets/after-1.jpg";
 const gallery1 = "/assets/gallery-1.jpg";
@@ -43,9 +45,11 @@ const gallery3 = "/assets/gallery-3.jpg";
 const iconMap = { Sprout, Shovel, Blocks, Leaf, Gem, Waves, Wand2 } as const;
 const imgMap: Record<string, string> = {
   sod: sodImg,
+  removal: sodRemovalImg,
   hardscape: hardscapeImg,
   mulch: mulchImg,
   stone: stoneImg,
+  transform: transformImg,
 };
 
 const WHY_US_ICONS: LucideIcon[] = [
@@ -191,9 +195,8 @@ function Services() {
         </div>
 
         <div className="mt-14 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {SERVICES.map((s, i) => {
+          {SERVICES.map((s) => {
             const Icon = iconMap[s.icon];
-            const featured = i === 0;
             const title = t(`items.${s.slug}.title`);
             return (
               <Link
@@ -202,17 +205,9 @@ function Services() {
                   pathname: "/services/[slug]",
                   params: { slug: serviceSlug(s.slug, locale) },
                 }}
-                className={[
-                  "group relative flex flex-col overflow-hidden rounded-3xl border border-black/5 bg-white shadow-soft transition-all duration-500 hover:-translate-y-1 hover:shadow-lift",
-                  featured ? "lg:col-span-2 lg:flex-row" : "",
-                ].join(" ")}
+                className="group relative flex flex-col overflow-hidden rounded-3xl border border-black/5 bg-white shadow-soft transition-all duration-500 hover:-translate-y-1 hover:shadow-lift"
               >
-                <div
-                  className={[
-                    "relative overflow-hidden",
-                    featured ? "aspect-[16/10] lg:aspect-auto lg:w-1/2" : "aspect-[16/10]",
-                  ].join(" ")}
-                >
+                <div className="relative aspect-[16/10] overflow-hidden">
                   <img
                     src={imgMap[s.img]}
                     alt={title}

@@ -28,5 +28,6 @@ next-env.d.ts
 *.sln
 *.sw?
 
+# Local env / Vercel
 .vercel
-
+.env*

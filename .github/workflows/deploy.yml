@@ -1,0 +1,63 @@
+name: Deploy to server
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Deploy over SSH
+        uses: appleboy/ssh-action@v1.2.2
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT || 22 }}
+          script_stop: true
+          command_timeout: 25m
+          script: |
+            set -euo pipefail
+
+            DEPLOY_PATH="${{ secrets.DEPLOY_PATH }}"
+            APP_NAME="${{ secrets.PM2_APP_NAME }}"
+            if [ -z "$APP_NAME" ]; then
+              APP_NAME="greenmastersmtl"
+            fi
+
+            if [ -z "$DEPLOY_PATH" ]; then
+              echo "DEPLOY_PATH secret is not set"
+              exit 1
+            fi
+
+            cd "$DEPLOY_PATH"
+
+            echo "==> Pulling latest main"
+            git fetch origin main
+            git checkout main
+            git reset --hard origin/main
+
+            echo "==> Installing dependencies"
+            npm ci
+
+            echo "==> Building"
+            npm run build
+
+            echo "==> Restarting PM2 ($APP_NAME)"
+            if pm2 describe "$APP_NAME" >/dev/null 2>&1; then
+              pm2 reload ecosystem.config.cjs --update-env
+            else
+              pm2 start ecosystem.config.cjs
+            fi
+            pm2 save
+
+            echo "==> Deploy complete"
+            pm2 status "$APP_NAME"
