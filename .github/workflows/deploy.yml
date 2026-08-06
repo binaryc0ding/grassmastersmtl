@@ -22,6 +22,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT || 22 }}
+          request_pty: true
           script_stop: true
           command_timeout: 25m
           script: |
@@ -38,31 +39,5 @@ jobs:
               exit 1
             fi
 
-            # Elevate to root (non-interactive equivalent of `sudo su`)
-            printf '%s\n' "${{ secrets.SSH_PASSWORD }}" | sudo -S -i bash -c "
-              set -euo pipefail
-
-              cd '$DEPLOY_PATH'
-
-              echo '==> Pulling latest main'
-              git fetch origin main
-              git checkout main
-              git reset --hard origin/main
-
-              echo '==> Installing dependencies'
-              npm ci
-
-              echo '==> Building'
-              npm run build
-
-              echo '==> Restarting PM2 ($APP_NAME)'
-              if pm2 describe '$APP_NAME' >/dev/null 2>&1; then
-                pm2 reload ecosystem.config.cjs --update-env
-              else
-                pm2 start ecosystem.config.cjs
-              fi
-              pm2 save
-
-              echo '==> Deploy complete'
-              pm2 status '$APP_NAME'
-            "
+            # Elevate to root, then deploy (non-interactive `sudo su`)
+            printf '%s\n' "${{ secrets.SSH_PASSWORD }}" | sudo -S -i bash -c "set -euo pipefail; cd '$DEPLOY_PATH'; echo '==> Pulling latest main'; git fetch origin main; git checkout main; git reset --hard origin/main; echo '==> Installing dependencies'; npm ci; echo '==> Building'; npm run build; echo '==> Restarting PM2 ($APP_NAME)'; if pm2 describe '$APP_NAME' >/dev/null 2>&1; then pm2 reload ecosystem.config.cjs --update-env; else pm2 start ecosystem.config.cjs; fi; pm2 save; echo '==> Deploy complete'; pm2 status '$APP_NAME'"
