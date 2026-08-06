@@ -30,7 +30,7 @@ jobs:
             DEPLOY_PATH="${{ secrets.DEPLOY_PATH }}"
             APP_NAME="${{ secrets.PM2_APP_NAME }}"
             if [ -z "$APP_NAME" ]; then
-              APP_NAME="greenmastersmtl"
+              APP_NAME="grassmastersmtl"
             fi
 
             if [ -z "$DEPLOY_PATH" ]; then
@@ -38,4 +38,4 @@ jobs:
               exit 1
             fi
 
-            printf '%s\n' "${{ secrets.SSH_PASSWORD }}" | sudo -S -i bash -c "set -euo pipefail; mkdir -p '$DEPLOY_PATH'; cd '$DEPLOY_PATH'; if [ ! -d .git ]; then echo '==> Cloning repo'; git clone https://github.com/binaryc0ding/greenmastersmtl.git .; fi; echo '==> Pulling latest main'; git fetch origin main; git checkout main; git reset --hard origin/main; echo '==> Installing dependencies'; npm ci; echo '==> Building'; npm run build; echo '==> Restarting PM2 ($APP_NAME)'; if pm2 describe '$APP_NAME' >/dev/null 2>&1; then pm2 reload ecosystem.config.cjs --update-env; else pm2 start ecosystem.config.cjs; fi; pm2 save; echo '==> Deploy complete'; pm2 status '$APP_NAME'"
+            printf '%s\n' "${{ secrets.SSH_PASSWORD }}" | sudo -S -i bash -c "set -euo pipefail; if [ -d /opt/github/greenmastersmtl/.git ] && [ ! -d '$DEPLOY_PATH' ]; then echo '==> Renaming deploy folder'; mv /opt/github/greenmastersmtl '$DEPLOY_PATH'; fi; if pm2 describe greenmastersmtl >/dev/null 2>&1 && [ '$APP_NAME' != greenmastersmtl ]; then echo '==> Renaming PM2 process'; pm2 delete greenmastersmtl || true; fi; mkdir -p '$DEPLOY_PATH'; cd '$DEPLOY_PATH'; if [ ! -d .git ]; then echo '==> Cloning repo'; git clone https://github.com/binaryc0ding/grassmastersmtl.git .; else git remote set-url origin https://github.com/binaryc0ding/grassmastersmtl.git; fi; echo '==> Pulling latest main'; git fetch origin main; git checkout main; git reset --hard origin/main; echo '==> Installing dependencies'; npm ci; echo '==> Building'; npm run build; echo '==> Restarting PM2 ($APP_NAME)'; if pm2 describe '$APP_NAME' >/dev/null 2>&1; then pm2 reload ecosystem.config.cjs --update-env; else pm2 start ecosystem.config.cjs; fi; pm2 save; echo '==> Deploy complete'; pm2 status '$APP_NAME'"
